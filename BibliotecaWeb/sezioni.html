@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sezione Libri</title>
+    <link rel="stylesheet" href="style.css"> 
+    <link rel="stylesheet" href="styleSezioni.css">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container header-container">
+            
+            <div class="categorie-dropdown">
+                <input type="checkbox" id="toggle-categorie" class="cat-checkbox">
+                
+                <label for="toggle-categorie" class="cat-btn">☰ Generi</label>
+                
+                <nav class="cat-sidebar">
+                    <div class="cat-sidebar-header">
+                        <h3>Generi Letterari</h3>
+                        <label for="toggle-categorie" class="cat-close">&times;</label>
+                    </div>
+                    <ul class="cat-list">
+                        <li><a href="#fantasy">Fantasy</a></li>
+                        <li><a href="#giallo">Giallo</a></li>
+                        <li><a href="#mystery">Mystery</a></li>
+                        <li><a href="#horror">Horror</a></li>
+                    </ul>
+                </nav>
+                
+                <label for="toggle-categorie" class="cat-overlay"></label>
+            </div>
+            <div class="logo">
+                <h1>📚 Sezione Libri</h1>
+            </div>
+            <nav id="navbar">
+                <ul class="nav-links">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#servizi">Servizi</a></li>
+                    <li><a href="#contatti">Contatti</a></li>
+                    <li><a href="#FAQ">FAQ</a></li>
+                </ul>
+            </nav>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </header>
+</body>
+</html>
