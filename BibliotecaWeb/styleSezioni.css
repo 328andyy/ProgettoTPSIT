@@ -6,7 +6,7 @@
 /* Stile del pulsante "☰ Generi" a sinistra del titolo */
 .cat-btn {
     display: inline-block;
-    background-color: var(--secondary-color); /* Usa il tuo color oro/sabbia */
+    background-color: var(--secondary-color); /* Oro */
     color: var(--white);
     padding: 8px 16px;
     border-radius: 20px;
