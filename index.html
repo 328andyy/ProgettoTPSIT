@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Biblioteca Centrale</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Importiamo dei font eleganti da Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Intestazione e Menu -->
+    <header>
+        <div class="container header-container">
+            <div class="logo">
+                <h1> Biblioteca Centrale</h1>
+            </div>
+            <nav id="navbar">
+                <ul class="nav-links">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#catalogo">Catalogo</a></li>
+                    <li><a href="#servizi">Servizi</a></li>
+                    <li><a href="#contatti">Contatti</a></li>
+                </ul>
+            </nav>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Sezione Principale (Hero) -->
+    <main>
+        <section id="home" class="hero">
+            <div class="hero-content">
+                <h2>Esplora mondi infiniti, una pagina alla volta.</h2>
+                <p>Oltre 50.000 volumi, sale studio silenziose e risorse digitali a tua disposizione.</p>
+                <div class="search-bar">
+                    <input type="text" id="searchInput" placeholder="Cerca titolo, autore o ISBN...">
+                    <button id="searchBtn">Cerca</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Sezione Servizi -->
+        <section id="servizi" class="services">
+            <div class="container">
+                <h2 class="section-title">I Nostri Servizi</h2>
+                <div class="services-grid">
+                    <div class="service-card">
+                        <h3>📖 Prestito Libri</h3>
+                        <p>Ritira i tuoi libri preferiti e tienili per 30 giorni. Rinnovo disponibile online.</p>
+                    </div>
+                    <div class="service-card">
+                        <h3>💻 Aule Studio & Wi-Fi</h3>
+                        <p>Spazi silenziosi e connessione internet in fibra ottica gratuita per tutti gli iscritti.</p>
+                    </div>
+                    <div class="service-card">
+                        <h3>👶 Area Ragazzi</h3>
+                        <p>Una sezione dedicata ai più piccoli con libri illustrati e laboratori di lettura.</p>
+                    </div>
+                    <div class="service-card">
+                        <h3>📱 Risorse Digitali</h3>
+                        <p>Accedi al nostro catalogo di eBook, audiolibri e riviste digitali comodamente da casa.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer id="contatti">
+        <div class="container footer-content">
+            <div class="footer-info">
+                <h3>Biblioteca Centrale</h3>
+                <p>Via dei Lettori, 123 - 00100 Città</p>
+                <p>Email: info@bibliotecacentrale.it</p>
+                <p>Telefono: +39 012 3456789</p>
+            </div>
+            <div class="footer-hours">
+                <h3>Orari di Apertura</h3>
+                <p>Lun - Ven: 08:30 - 19:30</p>
+                <p>Sabato: 09:00 - 13:00</p>
+                <p>Domenica: Chiuso</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 Biblioteca Centrale. Tutti i diritti riservati.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
