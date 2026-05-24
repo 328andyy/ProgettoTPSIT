@@ -1,12 +1,47 @@
+:root {
+    /* Tavolozza Principale (Sabbia / Oro / Scuro) */
+    --primary-color: #333333;     /* Testi principali */
+    --secondary-color: #b7791f;   /* Colore oro/sabbia */
+    --bg-light: #f9f9f9;          /* Grigio chiarissimo di fondo */
+    --text-color: #4a4a4a;        /* Testi secondari */
+    --white: #ffffff;             /* Bianco */
+    
+    /* Font */
+    --font-heading: 'Merriweather', serif;
+    --font-body: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: var(--bg-light);
+    margin: 0;
+    font-family: var(--font-body);
+    color: var(--primary-color);
+}
+
+/* Immagine Sfondo */
+.sfondo-biblioteca {
+    position: fixed;       /* Resta fissa durante lo scrolling */
+    top: 0;
+    left: 0;
+    width: 100vw;          /* Copre tutta la larghezza */
+    height: 100vh;         /* Copre tutta l'altezza */
+    object-fit: cover;     /* Si adatta senza deformarsi */
+    z-index: -1;           /* Si posiziona dietro a tutto il layout */
+    opacity: 0.23;         /* Trasparenza al 23% */
+    pointer-events: none;  /* Rende l'immagine non cliccabile */
+}
+
+/* Menu e Slide-Bar */
+
 /* Nasconde la checkbox di controllo */
 .cat-checkbox {
     display: none;
 }
 
-/* Stile del pulsante "☰ Generi" a sinistra del titolo */
+/* Pulsante "☰ Generi" a sinistra del titolo */
 .cat-btn {
     display: inline-block;
-    background-color: var(--secondary-color); /* Usa il tuo color oro/sabbia */
+    background-color: var(--secondary-color);
     color: var(--white);
     padding: 8px 16px;
     border-radius: 20px;
@@ -20,10 +55,10 @@
 }
 
 .cat-btn:hover {
-    background-color: #b7791f; /* Versione scura dell'oro al passaggio del mouse */
+    background-color: #966113; /* Quando passo il mouse sopra */
 }
 
-/* LA SIDEBAR: Pannello che scivola da sinistra */
+/* Slide-Bar */
 .cat-sidebar {
     position: fixed;
     top: 0;
@@ -35,6 +70,7 @@
     z-index: 9999; /* Sopra a qualsiasi altro elemento */
     transition: left 0.4s ease; /* Effetto transizione fluido */
     padding: 30px 20px;
+    box-sizing: border-box;
 }
 
 /* Intestazione interna del menu laterale */
@@ -51,6 +87,7 @@
     font-family: var(--font-heading);
     color: var(--primary-color);
     font-size: 1.3rem;
+    margin: 0;
 }
 
 /* Pulsante "X" per chiudere */
@@ -71,6 +108,8 @@
     display: flex;
     flex-direction: column;
     gap: 15px;
+    padding: 0;
+    margin: 0;
 }
 
 .cat-list li a {
@@ -87,7 +126,7 @@
 
 .cat-list li a:hover {
     background-color: var(--bg-light);
-    color: var(--primary-color);
+    color: var(--secondary-color);
 }
 
 /* Sfondo oscurato quando la sidebar è attiva */
@@ -120,6 +159,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 15px 20px;
 }
 
 /* Crea un piccolo allineamento flessibile per il blocco iniziale */

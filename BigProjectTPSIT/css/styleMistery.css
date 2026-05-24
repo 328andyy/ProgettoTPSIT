@@ -1,10 +1,10 @@
 :root {
-    /* Tavolozza Fantasy */
-    --primary-color: #3b1e54;    /* Viola profondo magico */
-    --secondary-color: #d4af37;  /* Oro antico */
-    --secondary-hover: #aa841c;  /* Oro scuro per gli effetti hover */
-    --bg-light: #f7f4eb;         /* Color pergamena chiaro */
-    --text-color: #2b1b3d;       /* Viola quasi nero per i testi */
+    /* Tavolozza Mystery */
+    --primary-color: #1a222d;    /* Grigio scuro / Blu notte  */
+    --secondary-color: #8b1e2f;  /* Rosso cremisi cupo */
+    --secondary-hover: #5c111c;  /* Rosso ancora più scuro per l'effetto hover */
+    --bg-light: #eef1f6;         /* Grigio nebbia chiarissimo per lo sfondo */
+    --text-color: #11161d;       /* Quasi nero per i testi */
     --white: #ffffff;            /* Bianco */
     
     /* Font */
@@ -14,23 +14,23 @@
 
 /* Body */
 body {
-    background-color: var(--bg-light); /* Colore pergamena di base sotto l'immagine */
+    background-color: var(--bg-light); /* Colore nebbia */
     margin: 0;
     font-family: var(--font-body);
     color: var(--text-color);
 }
 
 /* Sfondo Pagina */
-.sfondo-fantasy {
-    position: fixed;       /* Resta bloccata sullo schermo durante lo scroll */
+.sfondo-fantasy { 
+    position: fixed;       
     top: 0;
     left: 0;
-    width: 100vw;          /* Copre tutta la larghezza */
-    height: 100vh;         /* Copre tutta l'altezza */
-    object-fit: cover;     /* Si adatta intelligentemente senza distorcersi */
-    z-index: -1;           /* Si posiziona dietro a qualsiasi testo, bottone o header */
-    opacity: 0.23;         /* Sbiadita al 23% per non intralciare la lettura */
-    pointer-events: none;  /* Evita che l'utente possa selezionarla o trascinarla per sbaglio */
+    width: 100vw;          
+    height: 100vh;         
+    object-fit: cover;     
+    z-index: -1;           
+    opacity: 0.23;         /* Abbassato al 23% per dare un effetto ancora più fumoso */
+    pointer-events: none;  
 }
 
 /* Elementi Header */
@@ -43,21 +43,21 @@ body {
 /* Stile del pulsante "☰ Generi" a sinistra del titolo */
 .cat-btn {
     display: inline-block;
-    background-color: var(--secondary-color); /* Oro antico */
-    color: var(--primary-color); /* Testo viola scuro per contrasto su oro */
+    background-color: var(--secondary-color); /* Rosso cremisi */
+    color: var(--white); /* Testo bianco per contrasto sul rosso */
     padding: 8px 16px;
     border-radius: 20px;
     font-family: var(--font-body);
     font-weight: 600;
     font-size: 0.9rem;
     cursor: pointer;
-    margin-right: 15px; /* Spazio tra il bottone e il titolo H1 */
+    margin-right: 15px; 
     transition: background 0.3s, color 0.3s;
     user-select: none;
 }
 
 .cat-btn:hover {
-    background-color: var(--secondary-hover); /* Oro versione scura al passaggio del mouse */
+    background-color: var(--secondary-hover); /* Rosso scuro al passaggio del mouse */
     color: var(--white);
 }
 
@@ -65,13 +65,13 @@ body {
 .cat-sidebar {
     position: fixed;
     top: 0;
-    left: -320px; /* Nascosto fuori dalla finestra a sinistra*/
+    left: -320px; 
     width: 300px;
     height: 100vh;
-    background-color: var(--bg-light); /* Sfondo pergamena compatto */
-    box-shadow: 5px 0 15px rgba(59, 30, 84, 0.25); /* Ombra con una punta di viola */
-    z-index: 9999; /* Sopra a qualsiasi altro elemento */
-    transition: left 0.4s ease; /* Effetto transizione fluido */
+    background-color: #f4f6f9; /* Grigio leggermente scuro */
+    box-shadow: 5px 0 15px rgba(26, 34, 45, 0.3); /* Ombra scura */
+    z-index: 9999; 
+    transition: left 0.4s ease; 
     padding: 30px 20px;
     box-sizing: border-box;
 }
@@ -81,14 +81,14 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 2px solid var(--secondary-color); /* Linea divisoria oro */
+    border-bottom: 2px solid var(--secondary-color); /* Linea divisoria rossa */
     padding-bottom: 15px;
     margin-bottom: 20px;
 }
 
 .cat-sidebar-header h3 {
     font-family: var(--font-heading);
-    color: var(--primary-color); /* Viola Profondo */
+    color: var(--primary-color); /* Grigio scuro */
     font-size: 1.3rem;
     margin: 0;
 }
@@ -102,10 +102,10 @@ body {
 }
 
 .cat-close:hover {
-    color: var(--secondary-color); /* Diventa oro al passaggio */
+    color: var(--secondary-color); /* Diventa rosso al passaggio */
 }
 
-/* Lista delle categorie (Lista Libri, Giallo, Mystery, Horror) */
+/* Lista delle categorie */
 .cat-list {
     list-style: none;
     display: flex;
@@ -128,8 +128,8 @@ body {
 }
 
 .cat-list li a:hover {
-    background-color: var(--primary-color); /* Sfondo viola quando si passa sopra */
-    color: var(--secondary-color); /* Testo oro quando si passa sopra */
+    background-color: var(--primary-color); /* Sfondo grigio scuro all'hover */
+    color: var(--white);                    /* Testo bianco all'hover per staccare */
 }
 
 /* Sfondo oscurato quando la sidebar è attiva */
@@ -139,14 +139,14 @@ body {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-color: rgba(27, 12, 43, 0.6); /* Overlay scuro con tonalità magica/violacea */
+    background-color: rgba(17, 22, 29, 0.7); /* feeling nebbia notturna */
     z-index: 9998;
     display: none;
     opacity: 0;
     transition: opacity 0.4s ease;
 }
 
-/* Menu
+/* Menu */
 
 /* Fa scivolare dentro la sidebar da sinistra */
 .cat-checkbox:checked ~ .cat-sidebar {
@@ -159,9 +159,9 @@ body {
     opacity: 1;
 }
 
-/*Header
+/* Header */
 
-/* Allineamento per tenere pulsante e logo vicini a sinistra */
+/* Allineamento corretto per tenere pulsante e logo vicini a sinistra */
 .header-container {
     display: flex;
     justify-content: space-between;

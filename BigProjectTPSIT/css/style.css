@@ -1,6 +1,6 @@
 :root {
-    --primary-color: #1a365d; /* Blu scuro */
-    --secondary-color: #d69e2e; /* Oro/Sabbia per i bottoni */
+    --primary-color: #1a365d; /* Blu scuro istituzionale */
+    --secondary-color: #d69e2e; /* Oro/Sabbia per dettagli e accenti */
     --text-color: #333333;
     --bg-light: #f7fafc;
     --white: #ffffff;
@@ -27,7 +27,7 @@ body {
     margin: 0 auto;
 }
 
-/* Header & Navbar */
+/* Header*/
 header {
     background-color: var(--white);
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
@@ -38,7 +38,7 @@ header {
 
 .header-container {
     display: grid;
-    /* Griglia a 3 colonne perfettamente identiche per bloccare la simmetria */
+    /* Griglia a 3 colonne identiche per la simmetria */
     grid-template-columns: repeat(3, 1fr); 
     align-items: center;
     padding: 20px 0;
@@ -98,7 +98,7 @@ header {
     background-color: var(--primary-color);
 }
 
-/* Hero Section */
+/*Hero */
 .hero {
     background: linear-gradient(rgba(26, 54, 93, 0.8), rgba(26, 54, 93, 0.8)), url('https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80') center/cover;
     height: 70vh;
@@ -121,7 +121,7 @@ header {
     margin-bottom: 30px;
 }
 
-/* Services */
+/* Possibilità di */
 .services {
     padding: 80px 0;
     background-color: var(--white);
@@ -133,31 +133,60 @@ header {
     color: var(--primary-color);
     font-size: 2.2rem;
     margin-bottom: 50px;
+    position: relative;
+    display: inline-block;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* Elegante linea decorativa sotto il titolo "Possibilità di" */
+.section-title::after {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 3px;
+    background-color: var(--secondary-color);
+    margin: 10px auto 0 auto;
+    border-radius: 2px;
 }
 
 .services-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    display: flex;
+    justify-content: center; /* Centra la singola card nella pagina */
     gap: 30px;
+    flex-wrap: wrap;
 }
 
+/* Card ottimizzata come blocco informativo */
 .service-card {
     background: var(--bg-light);
-    padding: 30px;
-    border-radius: 10px;
-    text-align: center;
+    padding: 40px 30px;
+    border-radius: 8px;
+    text-align: left; /* Allineamento a sinistra per renderlo leggibile come un testo */
+    max-width: 450px;
+    width: 100%;
+    border-left: 5px solid var(--secondary-color); /* Dettaglio oro laterale che richiama l'editoria */
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
+/* Effetto di microscatto verso l'alto senza simulare la presenza di link */
 .service-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    transform: translateY(-3px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
 }
 
 .service-card h3 {
     color: var(--primary-color);
     font-family: var(--font-heading);
+    font-size: 1.4rem;
     margin-bottom: 15px;
+}
+
+.service-card p {
+    color: var(--text-color);
+    font-size: 1rem;
+    line-height: 1.7;
 }
 
 /* Footer */
@@ -188,15 +217,16 @@ footer {
     font-size: 0.9rem;
 }
 
-/* Responsive per Mobile */
+/* Responsive Layuot */
 @media (max-width: 768px) {
     .header-container {
-        display: flex; /* Disattiva la griglia su mobile per ripristinare il comportamento dell'hamburger */
+        display: flex; 
         justify-content: space-between;
+        padding: 20px;
     }
 
     #navbar-center, #navbar-right {
-        display: none; /* Nasconde i menu desktop su schermi piccoli */
+        display: none; 
     }
 
     .hamburger {
@@ -205,5 +235,9 @@ footer {
 
     .hero-content h2 {
         font-size: 2rem;
+    }
+    
+    .services {
+        padding: 60px 20px;
     }
 }
