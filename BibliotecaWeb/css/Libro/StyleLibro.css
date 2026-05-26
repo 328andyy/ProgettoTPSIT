@@ -1,10 +1,10 @@
 :root {
-    /* Tavolozza Fantasy */
-    --primary-color: #3b1e54;    /* Viola profondo magico */
-    --secondary-color: #d4af37;  /* Oro antico */
-    --secondary-hover: #aa841c;  /* Oro scuro per gli effetti hover */
-    --bg-light: #f7f4eb;         /* Color pergamena chiaro */
-    --text-color: #2b1b3d;       /* Viola quasi nero per i testi */
+    /* Tavolozza Libro */
+    --primary-color: #2B3A42;    /* Blu Lavagna scuro */
+    --secondary-color: #8B5A2B;  /* Inchiostro/Cuoio caldo */
+    --secondary-hover: #A06D3B;  /* Una sfumatura più chiara e luminosa del secondario */
+    --bg-light: #F9F8F6;         /* Bianco carta avorio, riposante per gli occhi */
+    --text-color: #000000;       /* Nero */
     --white: #ffffff;            /* Bianco */
     
     /* Font */
@@ -21,7 +21,7 @@ body {
 }
 
 /* Sfondo Pagina */
-.sfondo-fantasy {
+.sfondo-libro {
     position: fixed;       /* Resta bloccata sullo schermo durante lo scroll */
     top: 0;
     left: 0;

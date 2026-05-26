@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>La Biblioteca Centrale</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../CSS/style.css">
     <!-- Importiamo dei font eleganti da Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
 </head>
@@ -18,7 +18,7 @@
             </div>
             <nav id="navbar-center">
                 <ul class="nav-links">
-                    <li><a href="sezioni.php">Catalogo</a></li>
+                    <li><a href="Sezioni.php">Catalogo</a></li>
                 </ul>
             </nav>
             
@@ -41,7 +41,7 @@
         <section id="home" class="hero">
             <div class="hero-content">
                 <h2>Esplora mondi infiniti, una pagina alla volta.</h2>
-                <p>Oltre 50.000 volumi, sale studio silenziose e risorse digitali a tua disposizione.</p>
+                <p>Oltre 1000 volumi, file audio, video, cd, sale studio silenziose e risorse digitali a tua disposizione.</p>
         
                 <form action="" method="GET" class="search-bar">
                     <input type="text" name="query" placeholder="Cerca titolo, autore o ISBN..." value="<?php echo isset($_GET['query']) ? htmlspecialchars($_GET['query']) : ''; ?>">
@@ -57,7 +57,7 @@
                     $cerca = strtolower(trim($_GET['query']));
                     
                     // Definisce il percorso del file di testo che funge da database
-                    $file_path = 'ListaLibri.txt';
+                    $file_path = '../ListaLibri.txt';
                     
                     // Inizializza un array vuoto che conterrà i libri trovati
                     $risultati = [];

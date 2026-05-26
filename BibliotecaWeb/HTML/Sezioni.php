@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sezione Libri</title>
-    <link rel="stylesheet" href="css/style.css"> 
-    <link rel="stylesheet" href="css/styleSezioni.css">
+    <link rel="stylesheet" href="../CSS/Style.css"> 
+    <link rel="stylesheet" href="../CSS/StyleSezioni.css">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -26,10 +26,8 @@
                         <label for="toggle-categorie" class="cat-close">&times;</label>
                     </div>
                     <ul class="cat-list">
-                        <li><a href="fantasy.php">Fantasy</a></li>
-                        <li><a href="#giallo">Giallo</a></li>
-                        <li><a href="mystery.php">Mystery</a></li>
-                        <li><a href="#horror">Horror</a></li>
+                        <li><a href="Libro/Libro.php">Libri</a></li>
+                        <li><a href="Multimediale/Multimediale.php">Multimediale</a></li>
                     </ul>
                 </nav>
                 
@@ -41,9 +39,6 @@
             <nav id="navbar">
                 <ul class="nav-links">
                     <li><a href="index.php">Home</a></li>
-                    <li><a href="#servizi">Servizi</a></li>
-                    <li><a href="#contatti">Contatti</a></li>
-                    <li><a href="#FAQ">FAQ</a></li>
                 </ul>
             </nav>
             <div class="hamburger" id="hamburger">
@@ -56,7 +51,7 @@
     <?php
     // 1. IMPOSTAZIONE DEL PERCORSO FILE
     // Definisce il percorso del file di testo che funge da database
-    $file_path = 'ListaLibri.txt';
+    $file_path = '../ListaLibri.txt';
 
     // Inizializza un array vuoto che conterrà l'intero catalogo dei libri
     $catalogo_completo = [];

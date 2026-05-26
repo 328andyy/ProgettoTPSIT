@@ -57,26 +57,28 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Registrazione</title>
+        <link rel="stylesheet" href="../CSS/styleLogin.css">
     </head>
 
     <body>
+        <div class="login-container">
+            <h2>Registrazione Utente</h2>
 
-        <h2>Registrazione Utente</h2>
+            <form action="Registrati.php" method="POST">
+                <label for="username">Nome utente:</label>
+                <input type="text" name="username" id="username" required>
 
-        <form action="registrati.php" method="POST">
-            <label for="username">Nome utente:</label>
-            <input type="text" name="username" id="username" required>
+                <label for="password">Password:</label>
+                <input type="password" name="password" id="password" required>
 
-            <label for="password">Password:</label>
-            <input type="password" name="password" id="password" required>
-
-            <button type="submit">Registrati</button>
-        </form>
-
-        <?php if (!empty($messaggio)): ?>
-        <div>
-            <?php echo $messaggio; ?>
+                <button type="submit">Registrati</button>
+            </form>
+            <?php if (!empty($messaggio)): ?>
+    
+            <div class="messaggio">
+                <?php echo $messaggio; ?>
+            </div>
+            <?php endif; ?>
         </div>
-        <?php endif; ?>
     </body>
 </html>
