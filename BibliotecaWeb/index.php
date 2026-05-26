@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>La Biblioteca Centrale</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <!-- Importiamo dei font eleganti da Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
 </head>
@@ -16,12 +16,16 @@
             <div class="logo">
                 <h1> Biblioteca Centrale</h1>
             </div>
-            <nav id="navbar">
+            <nav id="navbar-center">
                 <ul class="nav-links">
-                    <li><a href="#home">Home</a></li>
-                    <li><a href="#catalogo">Catalogo</a></li>
-                    <li><a href="#servizi">Servizi</a></li>
-                    <li><a href="#contatti">Contatti</a></li>
+                    <li><a href="sezioni.php">Catalogo</a></li>
+                </ul>
+            </nav>
+            
+            <nav id="navbar-right">
+                <ul class="nav-links">
+                    <li><a href="Accedi.php">Login</a></li>
+                    <li><a href="registrati.php">Registrati</a></li>
                 </ul>
             </nav>
             <div class="hamburger" id="hamburger">

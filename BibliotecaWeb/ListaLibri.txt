@@ -28,13 +28,13 @@ Bird Box;Josh Malerman;Libro;Horror;9788868369019;2014
 Coraline;Neil Richard Gaiman;Libro;Horror;9788804667018;2002
 La Casa degli Spiriti;Isabel Angélica Allende Llona;Libro;Horror;9788807888441;1982
 Carrie;Stephen Edwin King;Libro;Horror;9788868369026;1974
-Il Codice Da Vinci;Dan Brown (Daniel Gerhard Brown);Libro;Mistery;9788804667247;2003
-Angeli e Demoni;Dan Brown (Daniel Gerhard Brown);Libro;Mistery;9788804667254;2000
-Il Simbolo Perduto;Dan Brown (Daniel Gerhard Brown);Libro;Mistery;9788804667261;2009
-Uomini che Odiano le Donne;Karl Stig-Erland Larsson;Libro;Mistery;9788831796200;2005
-La Ragazza che Giocava con il Fuoco;Karl Stig-Erland Larsson;Libro;Mistery;9788831796217;2006
-Il Richiamo del Cuculo;Joanne Kathleen Rowling (Robert Galbraith);Libro;Mistery;9788850240005;2013
-La Scomparsa di Stephanie Mailer;Joël Dicker;Libro;Mistery;9788830439870;2018
-Rebecca, la Prima Moglie;Daphne du Maurier;Libro;Mistery;9788807888557;1938
-La Biblioteca dei Morti;Glenn Cooper;Libro;Mistery;9788842915614;2009
-L'Uomo di Gesso;Caroline J. Tudor;Libro;Mistery;9788811609506;2018
+Il Codice Da Vinci;Dan Brown (Daniel Gerhard Brown);Libro;Mystery;9788804667247;2003
+Angeli e Demoni;Dan Brown (Daniel Gerhard Brown);Libro;Mystery;9788804667254;2000
+Il Simbolo Perduto;Dan Brown (Daniel Gerhard Brown);Libro;Mystery;9788804667261;2009
+Uomini che Odiano le Donne;Karl Stig-Erland Larsson;Libro;Mystery;9788831796200;2005
+La Ragazza che Giocava con il Fuoco;Karl Stig-Erland Larsson;Libro;Mystery;9788831796217;2006
+Il Richiamo del Cuculo;Joanne Kathleen Rowling (Robert Galbraith);Libro;Mystery;9788850240005;2013
+La Scomparsa di Stephanie Mailer;Joël Dicker;Libro;Mystery;9788830439870;2018
+Rebecca, la Prima Moglie;Daphne du Maurier;Libro;Mystery;9788807888557;1938
+La Biblioteca dei Morti;Glenn Cooper;Libro;Mystery;9788842915614;2009
+L'Uomo di Gesso;Caroline J. Tudor;Libro;Mystery;9788811609506;2018
