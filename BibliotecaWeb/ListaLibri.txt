@@ -1,0 +1,1000 @@
+Dieci piccoli indiani;Agatha Christie;Libro;Giallo;9788804707646;1939
+Il codice da Vinci;Dan Brown;Libro;Giallo;9788804705116;2003
+Angeli e demoni;Dan Brown;Libro;Giallo;9788804705123;2000
+La verità sul caso Harry Quebert;Joël Dicker;Libro;Giallo;9788811684336;2012
+Il suggeritore;Donato Carrisi;Libro;Giallo;9788830426436;2009
+Uomini che odiano le donne;Stieg Larsson;Libro;Giallo;9788831798310;2005
+La ragazza che giocava con il fuoco;Stieg Larsson;Libro;Giallo;9788831798327;2006
+La regina dei castelli di carta;Stieg Larsson;Libro;Giallo;9788831798334;2007
+Sherlock Holmes. Tutti i racconti;Arthur Conan Doyle;Libro;Giallo;9788804710271;1892
+L'ipnotista;Lars Kepler;Libro;Giallo;9788830427389;2009
+Il re dell'ago;Ken Follett;Libro;Giallo;9788804707110;1978
+La psichiatra;Wulf Dorn;Libro;Giallo;9788863800456;2009
+Le cronache di Dragonlance;Margaret Weis;Libro;Fantasy;9788804689110;1984
+L'apprendista ammazzatore;Robin Hobb;Libro;Fantasy;9788834710121;1995
+Il trono di spade. Libro secondo;George Raymond Richard Martin;Libro;Fantasy;9788804711919;1998
+Il cammino delle tenebre;Brandon Sanderson;Libro;Fantasy;9788834720114;2010
+Percy Jackson e gli dei dell'Olimpo. Il ladro di fulmini;Rick Riordan;Libro;Fantasy;9788861891104;2005
+American Gods;Neil Gaiman;Libro;Fantasy;9788804669341;2001
+Il castello errante di Howl;Diana Wynne Jones;Libro;Fantasy;9788831004121;1986
+Coraline;Neil Gaiman;Libro;Fantasy;9788804681129;2002
+Stardust;Neil Gaiman;Libro;Fantasy;9788804675518;1999
+Shadowhunters. Città di ossa;Cassandra Clare;Libro;Fantasy;9788804682110;2007
+Il colore della magia;Terry Pratchett;Libro;Fantasy;9788845291223;1983
+Le luci di settembre;Carlos Ruiz Zafón;Libro;Fantasy;9788804655512;1995
+Il quaderno di Maya;Isabel Allende;Libro;Rosa;9788807882210;2011
+Colpa delle stelle;John Green;Libro;Rosa;9788817068110;2012
+I passi dell'amore;Nicholas Sparks;Libro;Rosa;9788820029910;1999
+Le pagine della nostra vita;Nicholas Sparks;Libro;Rosa;9788820027681;1996
+Il cavaliere d'inverno;Paullina Simons;Libro;Rosa;9788817015521;2000
+Un amore americano;Brunonia Barry;Libro;Rosa;9788811601128;2007
+Scusa ma ti chiamo amore;Federico Moccia;Libro;Rosa;9788817015439;2007
+Tre metri sopra il cielo;Federico Moccia;Libro;Rosa;9788817002134;1992
+Il profumo delle foglie di limone;Clara Sánchez;Libro;Rosa;9788811681533;2010
+Ti prego lasciati odiare;Anna Premoli;Libro;Rosa;9788854153310;2013
+L'evoluzione di Calpurnia;Jacqueline Kelly;Libro;Storico;9788861891548;2009
+La cattedrale del mare;Ildefonso Falcones;Libro;Storico;9788830424111;2006
+La mano di Fatima;Ildefonso Falcones;Libro;Storico;9788830427112;2009
+Il re dei re;Valerio Massimo Manfredi;Libro;Storico;9788804515510;2002
+Lo scudo di Talos;Valerio Massimo Manfredi;Libro;Storico;9788804455115;1888
+Altai;Wu Ming;Libro;Storico;9788806198114;2009
+La sposa normanna;Carla Maria Russo;Libro;Storico;9788838475510;2004
+Il pittore di battaglie;Arturo Pérez-Reverte;Libro;Storico;9788817016551;2006
+I promessi sposi;Alessandro Manzoni;Libro;Storico;9788804710158;1827
+La ladra di libri;Markus Zusak;Libro;Storico;9788868361221;2005
+Carrie;Stephen King;Libro;Horror;9788845294112;1974
+Misery;Stephen King;Libro;Horror;9788820061125;1887
+L'ombra dello scorpione;Stephen King;Libro;Horror;9788845295119;1978
+Intervista col vampiro;Anne Rice;Libro;Horror;9788850202119;1976
+Scelti dalle tenebre;Anne Rice;Libro;Horror;9788850203116;1985
+La casa d'inferno;Richard Matheson;Libro;Horror;9788834712313;1971
+Io sono leggenda;Richard Matheson;Libro;Horror;9788834711119;1954
+L'esorcista;William Peter Blatty;Libro;Horror;9788820001117;1971
+Il richiamo di Cthulhu;Howard Phillips Lovecraft;Libro;Horror;9788804711599;1928
+Le montagne della follia;Howard Phillips Lovecraft;Libro;Horror;9788804711605;1936
+Moby Dick;Herman Melville;Libro;Avventura;9788804710189;1851
+Ventimila leghe sotto i mari;Jules Verne;Libro;Avventura;9788804711452;1870
+Viaggio al centro della Terra;Jules Verne;Libro;Avventura;9788804711469;1864
+L'ultimo dei Mohicani;James Fenimore Cooper;Libro;Avventura;9788804711476;1826
+Robinson Crusoe;Daniel Defoe;Libro;Avventura;9788804711483;1719
+I misteri della jungla nera;Emilio Salgari;Libro;Avventura;9788804711612;1895
+Il re del mare;Emilio Salgari;Libro;Avventura;9788804711629;1906
+Zanna Bianca;Jack London;Libro;Avventura;9788804711551;1906
+Tarzan delle Scimmie;Edgar Rice Burroughs;Libro;Avventura;9788804681112;1912
+Il barone di Munchhausen;Rudolf Erich Raspe;Libro;Umoristico;9788804711568;1785
+Il diario di Bridget Jones;Helen Fielding;Libro;Umoristico;9788817117111;1996
+In un paese bruciato dal sole;Bill Bryson;Libro;Umoristico;9788850201211;2000
+La vita è una cosa meravigliosa;Woody Allen;Libro;Umoristico;9788845248116;2001
+Alta fedeltà;Nick Hornby;Libro;Umoristico;9788823501218;1995
+Un lavoro inadatto a una donna;P.D. James;Libro;Umoristico;9788804512112;1972
+Fantozzi;Paolo Villaggio;Libro;Umoristico;9788817105217;1971
+La variante di Lüneburg;Paolo Maurensig;Libro;Umoristico;9788845909115;1993
+Le memorie di Adriano;Marguerite Yourcenar;Libro;Biografico;9788806219413;1951
+La mia Africa;Karen Blixen;Libro;Biografico;9788807883217;1937
+Enzo Ferrari. Un eroe italiano;Leo Turrini;Libro;Biografico;9788804509981;2002
+Senza mai abbassare gli occhi;Rita Levi-Montalcini;Libro;Biografico;9788830424517;2000
+L'architetto del tempo;Albert Einstein;Libro;Biografico;9788830415119;1949
+Un uomo;Oriana Fallaci;Libro;Biografico;9788817150118;1979
+Gandhi. La mia vita per la libertà;Mahatma Gandhi;Libro;Biografico;97888Newton1111;1927
+Martin Luther King. Io ho un sogno;Martin Luther King;Libro;Biografico;97888 Mondadori222;1963
+Frida;Hayden Herrera;Libro;Biografico;9788854501111;1983
+Il re dei torti;John Grisham;Libro;Giallo;9788804524335;2003
+Il socio;John Grisham;Libro;Giallo;9788804505129;1991
+Uomini che odiano le donne;Stieg Larsson;Libro;Giallo;9788831798310;2005
+La verità sul caso Harry Quebert;Joël Dicker;Libro;Giallo;9788811684336;2012
+La forma dell'acqua;Andrea Camilleri;Libro;Giallo;9788838910173;1994
+Il cane di terracotta;Andrea Camilleri;Libro;Giallo;9788838912269;1996
+La mossa del cavallo;Andrea Camilleri;Libro;Giallo;9788838915031;1999
+Angeli e demoni;Dan Brown;Libro;Giallo;9788804531678;2000
+Crypto;Dan Brown;Libro;Giallo;9788804561545;1998
+La cruna dell'ago;Ken Follett;Libro;Giallo;9788804707103;1978
+Il nome del vento;Patrick Rothfuss;Libro;Fantasy;9788845293245;2007
+La paura del saggio;Patrick Rothfuss;Libro;Fantasy;9788845267796;2011
+L'apprendista ammazzatore;Robin Hobb;Libro;Fantasy;9788834710121;1995
+L'assassino di corte;Robin Hobb;Libro;Fantasy;9788834712033;1996
+La via dei re;Brandon Sanderson;Libro;Fantasy;9788834734315;2010
+Parole di luce;Brandon Sanderson;Libro;Fantasy;9788834736128;2014
+American Gods;Neil Gaiman;Libro;Fantasy;9788804669341;2001
+I ragazzi di Anansi;Neil Gaiman;Libro;Fantasy;9788834731116;2005
+La lama sottile;Philip Pullman;Libro;Fantasy;9788877826138;1997
+Il cannocchiale d'ambra;Philip Pullman;Libro;Fantasy;9788877829283;2000
+Il diario di Bridget Jones;Helen Fielding;Libro;Rosa;9788817117111;1996
+Che pasticcio, Bridget Jones!;Helen Fielding;Libro;Rosa;9788817125307;1999
+Colpa delle stelle;John Green;Libro;Rosa;9788817068110;2012
+Cercando Alaska;John Green;Libro;Rosa;9788817013239;2005
+I passi dell'amore;Nicholas Sparks;Libro;Rosa;9788820029910;1999
+Le parole che non ti ho detto;Nicholas Sparks;Libro;Rosa;9788820028121;1998
+Il duca e io;Julia Quinn;Libro;Rosa;9788804724216;2000
+Il visconte che mi amava;Julia Quinn;Libro;Rosa;9788804732128;2000
+Cinquanta sfumature di grigio;E. L. James;Libro;Rosa;9788830433298;2011
+Un amore di gioventù;Nicholas Sparks;Libro;Rosa;9788820035129;2003
+Mondo senza fine;Ken Follett;Libro;Storico;9788804572459;2007
+La colonna di fuoco;Ken Follett;Libro;Storico;9788804680759;2017
+La cattedrale del mare;Ildefonso Falcones;Libro;Storico;9788830424111;2006
+La mano di Fatima;Ildefonso Falcones;Libro;Storico;9788830427112;2009
+Alexandros. Il figlio del sogno;Valerio Massimo Manfredi;Libro;Storico;9788804455790;1998
+Alexandros. Le sabbie di Amon;Valerio Massimo Manfredi;Libro;Storico;9788804455806;1998
+Alexandros. Il confine del mondo;Valerio Massimo Manfredi;Libro;Storico;9788804455813;1998
+L'ultima legione;Valerio Massimo Manfredi;Libro;Storico;9788804509530;2002
+Il medico di Saragozza;Noah Gordon;Libro;Storico;9788817106559;1986
+La sposa normanna;Carla Maria Russo;Libro;Storico;9788838475510;2004
+Salem's Lot;Stephen King;Libro;Horror;9788845294228;1975
+Misery;Stephen King;Libro;Horror;9788820061125;1987
+L'ombra dello scorpione;Stephen King;Libro;Horror;9788845295119;1978
+Pet Sematary;Stephen King;Libro;Horror;9788845295553;1983
+Intervista col vampiro;Anne Rice;Libro;Horror;9788850202119;1976
+Scelti dalle tenebre;Anne Rice;Libro;Horror;9788850203116;1985
+Io sono leggenda;Richard Matheson;Libro;Horror;9788834711119;1954
+La casa d'inferno;Richard Matheson;Libro;Horror;9788834712313;1971
+L'esorcista;William Peter Blatty;Libro;Horror;9788820001117;1971
+Ghost Story;Peter Straub;Libro;Horror;9788817106213;1979
+Ventimila leghe sotto i mari;Jules Verne;Libro;Avventura;9788804711452;1870
+Viaggio al centro della Terra;Jules Verne;Libro;Avventura;9788804711469;1864
+L'ultimo dei Mohicani;James Fenimore Cooper;Libro;Avventura;9788804711476;1826
+Robinson Crusoe;Daniel Defoe;Libro;Avventura;9788804711483;1719
+I misteri della jungla nera;Emilio Salgari;Libro;Avventura;9788804711612;1895
+Le tigri di Mompracem;Emilio Salgari;Libro;Avventura;9788804711629;1900
+Il richiamo della foresta;Jack London;Libro;Avventura;9788804711537;1903
+Zanna Bianca;Jack London;Libro;Avventura;9788804711551;1906
+Tarzan delle Scimmie;Edgar Rice Burroughs;Libro;Avventura;9788804681112;1912
+King Solomon's Mines;Henry Rider Haggard;Libro;Avventura;9788804689004;1885
+In un paese bruciato dal sole;Bill Bryson;Libro;Umoristico;9788850201211;2000
+America perduta;Bill Bryson;Libro;Umoristico;9788850203140;1989
+Alta fedeltà;Nick Hornby;Libro;Umoristico;9788823501218;1995
+Un ragazzo;Nick Hornby;Libro;Umoristico;9788823503113;1998
+Fantozzi;Paolo Villaggio;Libro;Umoristico;9788817105217;1971
+Il secondo tragico libro di Fantozzi;Paolo Villaggio;Libro;Umoristico;9788817106122;1874
+Tre uomini in barca;Jerome Klapka Jerome;Libro;Umoristico;9788804711544;1889
+La versione di Barney;Mordecai Richler;Libro;Umoristico;9788845915758;1997
+Il diario segreto di Adrian Mole;Sue Townsend;Libro;Umoristico;9788820003449;1982
+Zazie nel metrò;Raymond Queneau;Libro;Umoristico;9788806218126;1959
+Le memorie di Adriano;Marguerite Yourcenar;Libro;Biografico;9788806219413;1951
+La mia Africa;Karen Blixen;Libro;Biografico;9788807883217;1937
+Open. La mia storia;Andre Agassi;Libro;Biografico;9788806213756;2009
+Una terra promessa;Barack Obama;Libro;Biografico;9788817154949;2020
+Frida;Hayden Herrera;Libro;Biografico;9788854501111;1983
+L'architetto del tempo;Albert Einstein;Libro;Biografico;9788830415119;1949
+Un uomo;Oriana Fallaci;Libro;Biografico;9788817150118;1979
+Napoleone;Max Gallo;Libro;Biografico;9788830416123;1997
+Chiamatemi Francesco;Papa Francesco;Libro;Biografico;97888 Mondadori333;2015
+Steve Jobs;Walter Isaacson;Libro;Biografico;9788804618751;2011
+L'appello;John Grisham;Libro;Giallo;9788804584223;2008
+La casa dipinta;John Grisham;Libro;Giallo;9788804491119;2001
+La fiera delle vanità;William Makepeace Thackeray;Libro;Giallo;9788804711500;1848
+Il giorno dello sciacallo;Frederick Forsyth;Libro;Giallo;9788804705222;1971
+La vedova nera;Daniel Silva;Libro;Giallo;9788820061229;2016
+La pista di ghiaccio;Roberto Bolaño;Libro;Giallo;9788845924112;1993
+L'inverno di Frankie Machine;Don Winslow;Libro;Giallo;9788806191122;2006
+Il potere del cane;Don Winslow;Libro;Giallo;9788806201213;2005
+La memoria del topo;Michael Connelly;Libro;Giallo;9788817106146;1992
+Ghiaccio nero;Michael Connelly;Libro;Giallo;9788817107228;1993
+La lama dell'assassino;Robin Hobb;Libro;Fantasy;9788834714126;1997
+Il viaggio dell'assassino;Robin Hobb;Libro;Fantasy;9788834716113;1998
+Il giuramento;Brandon Sanderson;Libro;Fantasy;9788834738115;2017
+Il ritmo della guerra;Brandon Sanderson;Libro;Fantasy;9788834741120;2020
+Il mare infinito;Rick Riordan;Libro;Fantasy;9788861892118;2006
+La maledizione del titano;Rick Riordan;Libro;Fantasy;9788861893122;2007
+La battaglia del labirinto;Rick Riordan;Libro;Fantasy;9788861894136;2008
+Lo scettro di sabbia;Samantha Shannon;Libro;Fantasy;9788804721115;2020
+La città d'ottone;S. A. Chakraborty;Libro;Fantasy;9788804715504;2017
+Il regno di rame;S. A. Chakraborty;Libro;Fantasy;9788804726614;2019
+Un porto sicuro;Nicholas Sparks;Libro;Rosa;9788820049118;2010
+La risposta nelle stelle;Nicholas Sparks;Libro;Rosa;9788820055123;2013
+Nei tuoi occhi;Nicholas Sparks;Libro;Rosa;9788820059114;2015
+Il club dei cuori infranti;Jojo Moyes;Libro;Rosa;9788804641119;2009
+Luna di miele a Parigi;Jojo Moyes;Libro;Rosa;9788804651125;2012
+La ragazza che hai lasciato;Jojo Moyes;Libro;Rosa;9788804661131;2013
+L'amore e altre parole;Christina Lauren;Libro;Rosa;9788845298114;2018
+Facciamo finta che mi ami;Elena Armas;Libro;Rosa;9788820073213;2021
+L'ipotesi dell'amore;Ali Hazelwood;Libro;Rosa;9788820074111;2021
+Una proposta seducente;Julia Quinn;Libro;Rosa;9788804741210;2001
+Il secolo dei giganti;Antonio Forcellino;Libro;Storico;9788842095512;2015
+Il fermo dei tempi;Sebastiano Vassalli;Libro;Storico;9788804412213;1996
+Il re del mercato;Noah Gordon;Libro;Storico;9788817112215;1992
+La scelta di Sigmund;Jed Rubenfeld;Libro;Storico;9788817031129;2009
+Le sette dinastie;Valerio Massimo Manfredi;Libro;Storico;9788804651118;2015
+Teutoburgo;Valerio Massimo Manfredi;Libro;Storico;9788804665123;2016
+Il ponte sulla Drina;Ivo Andrić;Libro;Storico;9788804712314;1945
+La favorita del re;Carla Maria Russo;Libro;Storico;9788838481229;2007
+I bastardi di Pizzofalcone;Maurizio de Giovanni;Libro;Storico;9788806214111;2013
+La collina dei ciliegi;Ken Follett;Libro;Storico;9788804707127;1982
+Cujo;Stephen King;Libro;Horror;9788845294334;1981
+Christine. La macchina infernale;Stephen King;Libro;Horror;9788845294440;1983
+Il gioco di Gerald;Stephen King;Libro;Horror;9788845294556;1992
+La regina dei dannati;Anne Rice;Libro;Horror;9788850204120;1988
+Il ladro di corpi;Anne Rice;Libro;Horror;9788850205110;1992
+A volte ritornano;Stephen King;Libro;Horror;9788845294129;1978
+Hell House;Richard Matheson;Libro;Horror;9788834714115;1971
+La ballata di Black Tom;Victor LaValle;Libro;Horror;97888Hypnos111;2016
+Bird Box;Josh Malerman;Libro;Horror;9788831001223;2014
+Il rito;Jack Lawson;Libro;Horror;97888Newton555;2009
+Il re del mondo;Jules Verne;Libro;Avventura;9788804711483;1882
+Il raggio verde;Jules Verne;Libro;Avventura;9788804711490;1882
+Le avventure di Tom Sawyer;Mark Twain;Libro;Avventura;9788804711506;1876
+Le avventure di Huckleberry Finn;Mark Twain;Libro;Avventura;9788804711513;1884
+La freccia nera;Robert Louis Stevenson;Libro;Avventura;9788804710196;1888
+Il ragazzo rapito;Robert Louis Stevenson;Libro;Avventura;9788804710202;1886
+Le tigri di Mompracem;Emilio Salgari;Libro;Avventura;9788804711629;1900
+La regina dei Caraibi;Emilio Salgari;Libro;Avventura;9788804711636;1901
+La crociera della corvetta;Jack London;Libro;Avventura;9788804711568;1911
+Il vagabondo delle stelle;Jack London;Libro;Avventura;9788804711575;1915
+Una passeggiata nei boschi;Bill Bryson;Libro;Umoristico;9788850204551;1998
+Breve storia di quasi tutto;Bill Bryson;Libro;Umoristico;9788850211124;2003
+Non buttiamoci giù;Nick Hornby;Libro;Umoristico;9788823505125;2005
+Tutta colpa dell'angelo;Nick Hornby;Libro;Umoristico;9788823507112;2009
+Il libro di Fantozzi;Paolo Villaggio;Libro;Umoristico;9788817107221;1975
+Fantozzi contro tutti;Paolo Villaggio;Libro;Umoristico;9788817108112;1979
+Esercizi di stile;Raymond Queneau;Libro;Umoristico;9788806219123;1947
+I fiori blu;Raymond Queneau;Libro;Umoristico;9788806221121;1965
+Il piccolo lord;Frances Hodgson Burnett;Libro;Umoristico;9788804711582;1885
+L'evoluzione delle specie;Charles Darwin;Libro;Umoristico;9788804711599;1859
+Enzo Ferrari. Il signore dei motori;Leo Turrini;Libro;Biografico;9788804511221;2002
+La mia storia;Michelle Obama;Libro;Biografico;9788817108423;2018
+Rita Levi-Montalcini. Una vita per la scienza;Stefano Sandrelli;Libro;Biografico;9788842091125;2010
+E=mc2. Biografia di un'equazione;David Bodanis;Libro;Biografico;9788804515522;2000
+Il coraggio della speranza;Barack Obama;Libro;Biografico;9788817019551;2006
+Napoleone. Il grande stratega;Max Gallo;Libro;Biografico;9788830417229;1997
+Martin Luther King. Una biografia;Coretta Scott King;Libro;Biografico;97888 Mondadori444;1969
+La ragazza con la Leica;Helena Janeczek;Libro;Biografico;9788823518339;2017
+L'ultimo viaggio di Sindbad;Erri De Luca;Libro;Biografico;9788807016331;2003
+Senza confini;Margherita Hack;Libro;Biografico;9788804551122;2005
+Assassinio sull'Orient Express;Agatha Christie;Libro;Giallo;9788804700395;1934
+Il mastino dei Baskerville;Arthur Conan Doyle;Libro;Giallo;9788804710240;1902
+Il codice da Vinci;Dan Brown;Libro;Giallo;9788804705116;2003
+Dieci piccoli indiani;Agatha Christie;Libro;Giallo;9788804707646;1939
+Il silenzio degli innocenti;Thomas Harris;Libro;Giallo;9788804715528;1988
+Il suggeritore;Donato Carrisi;Libro;Giallo;9788830426436;2009
+La forma dell'acqua;Andrea Camilleri;Libro;Giallo;9788838910173;1994
+Il cane di terracotta;Andrea Camilleri;Libro;Giallo;9788838912269;1996
+Il socio;John Grisham;Libro;Giallo;9788804505129;1991
+Sherlock Holmes. Tutti i racconti;Arthur Conan Doyle;Libro;Giallo;9788804710271;1892
+Harry Potter e la Pietra Filosofale;Joanne Kathleen Rowling;Libro;Fantasy;9788867155958;1997
+Harry Potter e la Camera dei Segreti;Joanne Kathleen Rowling;Libro;Fantasy;9788867155965;1998
+Harry Potter e il Prigioniero di Azkaban;Joanne Kathleen Rowling;Libro;Fantasy;9788867155972;1999
+Lo Hobbit;John Ronald Reuel Tolkien;Libro;Fantasy;9788845283451;1937
+Il Silmarillion;John Ronald Reuel Tolkien;Libro;Fantasy;9788845277467;1977
+Cronache di Narnia;Clive Staples Lewis;Libro;Fantasy;9788804680209;1950
+Eragon;Christopher Paolini;Libro;Fantasy;9788817004459;2002
+La storia infinita;Michael Ende;Libro;Fantasy;9788830403420;1979
+La bussola d'oro;Philip Pullman;Libro;Fantasy;9788831512893;1995
+Percy Jackson e gli dei dell'Olimpo. Il ladro di fulmini;Rick Riordan;Libro;Fantasy;9788861891104;2005
+Orgoglio e Pregiudizio;Jane Austen;Libro;Rosa;9788804711469;1813
+Ragione e Sentimento;Jane Austen;Libro;Rosa;9788804702177;1811
+Jane Eyre;Charlotte Brontë;Libro;Rosa;9788804710257;1847
+Cime Tempestose;Emily Brontë;Libro;Rosa;9788804710264;1847
+Io prima di te;Jojo Moyes;Libro;Rosa;9788804675549;2012
+Pagine d'amore;Nicholas Sparks;Libro;Rosa;9788820027681;1996
+Le pagine della nostra vita;Nicholas Sparks;Libro;Rosa;9788820027681;1996
+Chocolat;Joanne Harris;Libro;Rosa;9788817002349;1999
+Tre metri sopra il cielo;Federico Moccia;Libro;Rosa;9788817002134;1992
+Il diario di Bridget Jones;Helen Fielding;Libro;Rosa;9788817117111;1996
+I pilastri della terra;Ken Follett;Libro;Storico;9788804707158;1989
+Il Nome della Rosa;Umberto Eco;Libro;Storico;9788830103443;1980
+Il Conte di Montecristo;Alexandre Dumas;Libro;Storico;9788804710202;1844
+I Tre Moschettieri;Alexandre Dumas;Libro;Storico;9788804718048;1844
+I Miserabili;Victor Hugo;Libro;Storico;9788804710196;1862
+Guerra e Pace;Lev Nikolaevic Tolstoj;Libro;Storico;9788804681648;1869
+Anna Karenina;Lev Nikolaevic Tolstoj;Libro;Storico;9788804710325;1877
+La cattedrale del mare;Ildefonso Falcones;Libro;Storico;9788830424111;2006
+Q;Luther Blissett;Libro;Storico;9788806155742;1999
+Sostiene Pereira;Antonio Tabucchi;Libro;Storico;9788807880926;1994
+Shining;Stephen King;Libro;Horror;9788845294525;1977
+It;Stephen King;Libro;Horror;9788820062903;1986
+Dracula;Bram Stoker;Libro;Horror;9788804710233;1897
+Frankenstein;Mary Shelley;Libro;Horror;9788804710226;1818
+Pet Sematary;Stephen King;Libro;Horror;9788845295553;1983
+Misery;Stephen King;Libro;Horror;9788820061125;1987
+L'ombra dello scorpione;Stephen King;Libro;Horror;9788845295119;1978
+Intervista col vampiro;Anne Rice;Libro;Horror;9788850202119;1976
+Io sono leggenda;Richard Matheson;Libro;Horror;9788834711119;1954
+L'esorcista;William Peter Blatty;Libro;Horror;9788820001117;1971
+L'isola del tesoro;Robert Louis Stevenson;Libro;Avventura;9788804710172;1883
+Il richiamo della foresta;Jack London;Libro;Avventura;9788804711537;1903
+Zanna Bianca;Jack London;Libro;Avventura;9788804711551;1906
+Il giro del mondo in 80 giorni;Jules Verne;Libro;Avventura;9788804711445;1873
+Ventimila leghe sotto i mari;Jules Verne;Libro;Avventura;9788804711452;1870
+Viaggio al centro della Terra;Jules Verne;Libro;Avventura;9788804711469;1864
+Moby Dick;Herman Melville;Libro;Avventura;9788804710189;1851
+Robinson Crusoe;Daniel Defoe;Libro;Avventura;9788804711483;1719
+Cuore di tenebra;Joseph Conrad;Libro;Avventura;9788804711520;1899
+Il corsaro nero;Emilio Salgari;Libro;Avventura;9788804711605;1898
+Tre uomini in barca;Jerome Klapka Jerome;Libro;Umoristico;9788804711544;1889
+Guida galattica per gli autostoppisti;Douglas Adams;Libro;Umoristico;9788804719205;1979
+La versione di Barney;Mordecai Richler;Libro;Umoristico;9788845915758;1997
+Alta fedeltà;Nick Hornby;Libro;Umoristico;9788823501218;1995
+Fantozzi;Paolo Villaggio;Libro;Umoristico;9788817105217;1971
+In un paese bruciato dal sole;Bill Bryson;Libro;Umoristico;9788850201211;2000
+Il diario segreto di Adrian Mole;Sue Townsend;Libro;Umoristico;9788820003449;1982
+Zazie nel metrò;Raymond Queneau;Libro;Umoristico;9788806218126;1959
+Il barone di Munchhausen;Rudolf Erich Raspe;Libro;Umoristico;9788804711568;1785
+Fermi tutti, questo è un libro;Ficarra e Picone;Libro;Umoristico;9788804561002;2006
+Diario;Anne Frank;Libro;Biografico;9788806225539;1947
+Steve Jobs;Walter Isaacson;Libro;Biografico;9788804618751;2011
+Open. La mia storia;Andre Agassi;Libro;Biografico;9788806213756;2009
+Una terra promessa;Barack Obama;Libro;Biografico;9788817154949;2020
+Le memorie di Adriano;Marguerite Yourcenar;Libro;Biografico;9788806219413;1951
+La mia Africa;Karen Blixen;Libro;Biografico;9788807883217;1937
+Un uomo;Oriana Fallaci;Libro;Biografico;9788817150118;1979
+Frida;Hayden Herrera;Libro;Biografico;9788854501111;1983
+Lessico famigliare;Natalia Ginzburg;Libro;Biografico;9788806219420;1963
+Enzo Ferrari. Biografia di un mito;Leo Turrini;Libro;Biografico;9788804509981;2002
+Mistborn;Brandon Winn Sanderson;Libro;Fantasy;9788868361365;2006
+The Witcher - Il Guardiano degli Innocenti;Andrzej Sapkowski;Libro;Fantasy;9788842931041;1993
+Sherlock Holmes - Uno Studio in Rosso;Sir Arthur Ignatius Conan Doyle;Libro;Giallo;9788807901010;1887
+La Ragazza del Treno;Paula Hawkins;Libro;Giallo;9788850236602;2015
+Il re dei torti;John Grisham;Libro;Giallo;9788804524335;2003
+La cruna dell'ago;Ken Follett;Libro;Giallo;9788804707103;1978
+Il sarto di Panama;John le Carré;Libro;Giallo;9788804443118;1996
+La talpa;John le Carré;Libro;Giallo;9788804509127;1974
+La verita sul caso Harry Quebert;Joël Dicker;Libro;Giallo;9788842922056;2012
+Il poeta;Michael Connelly;Libro;Giallo;9788817106153;1996
+La mossa del cavallo;Andrea Camilleri;Libro;Giallo;9788838915031;1999
+Crypto;Dan Brown;Libro;Giallo;9788804561545;1998
+La paura del saggio;Patrick Rothfuss;Libro;Fantasy;9788845267796;2011
+L'assassino di corte;Robin Hobb;Libro;Fantasy;9788834712033;1996
+La via dei re;Brandon Sanderson;Libro;Fantasy;9788834734315;2010
+Parole di luce;Brandon Sanderson;Libro;Fantasy;9788834736128;2014
+I ragazzi di Anansi;Neil Gaiman;Libro;Fantasy;9788834731116;2005
+Il cannocchiale d'ambra;Philip Pullman;Libro;Fantasy;9788877829283;2000
+American Gods;Neil Gaiman;Libro;Fantasy;9788834710115;2001
+Stardust;Neil Gaiman;Libro;Fantasy;9788804667025;1999
+L'ultimo eroe;Brandon Sanderson;Libro;Fantasy;9788834718824;2008
+Tigana;Guy Gavriel Kay;Libro;Fantasy;9788834711122;1990
+Il nome del vento;Patrick Rothfuss;Libro;Fantasy;9788845260114;2007
+La lama sovrana;Joe Abercrombie;Libro;Fantasy;9788834733221;2006
+Che pasticcio, Bridget Jones!;Helen Fielding;Libro;Rosa;9788817125307;1999
+Cercando Alaska;John Green;Libro;Rosa;9788817013239;2005
+Le parole che non ti ho detto;Nicholas Sparks;Libro;Rosa;9788820028121;1998
+Il duca e io;Julia Quinn;Libro;Rosa;9788804724216;2000
+Il visconte che mi amava;Julia Quinn;Libro;Rosa;9788804732128;2000
+Cinquanta sfumature di grigio;E. L. James;Libro;Rosa;9788830433298;2011
+Un amore di gioventù;Nicholas Sparks;Libro;Rosa;9788820035129;2003
+La chimica del cuore;Stefania Auci;Libro;Rosa;9788804711115;2019
+Un posto nel mondo;Fabio Volo;Libro;Rosa;9788804554221;2006
+Il giorno in più;Fabio Volo;Libro;Rosa;9788804573112;2007
+Scusa ma ti chiamo amore;Federico Moccia;Libro;Rosa;9788817015114;2007
+Colpa delle stelle;John Green;Libro;Rosa;9788817068882;2012
+Cento anni di solitudine;Gabriel García Márquez;Libro;Rosa;9788804702115;1967
+L'amore ai tempi del colera;Gabriel García Márquez;Libro;Rosa;9788804703441;1985
+La casa degli spiriti;Isabel Allende;Libro;Rosa;9788807888441;1982
+Eva Luna;Isabel Allende;Libro;Rosa;9788807810152;1987
+Mondo senza fine;Ken Follett;Libro;Storico;9788804572459;2007
+La colonna di fuoco;Ken Follett;Libro;Storico;9788804680759;2017
+La mano di Fatima;Ildefonso Falcones;Libro;Storico;9788830427112;2009
+Alexandros. Il figlio del sogno;Valerio Massimo Manfredi;Libro;Storico;9788804455790;1998
+Alexandros. Le sabbie di Amon;Valerio Massimo Manfredi;Libro;Storico;9788804455806;1998
+Alexandros. Il confine del mondo;Valerio Massimo Manfredi;Libro;Storico;9788804455813;1998
+L'ultima legione;Valerio Massimo Manfredi;Libro;Storico;9788804509530;2002
+Il medico di Saragozza;Noah Gordon;Libro;Storico;9788817106559;1986
+La sposa normanna;Carla Maria Russo;Libro;Storico;9788838475510;2004
+La bastarda degli Sforza;Carla Maria Russo;Libro;Storico;9788838488221;2005
+Il cavaliere d'inverno;Paullina Simons;Libro;Storico;9788817105423;2000
+Il gattopardo;Giuseppe Tomasi di Lampedusa;Libro;Storico;9788804710110;1958
+La storia;Elsa Morante;Libro;Storico;9788806225513;1974
+I leoni di Sicilia;Stefania Auci;Libro;Storico;9788843200115;2019
+L'inverno dei Leoni;Stefania Auci;Libro;Storico;9788843201228;2021
+Il re dei re;Wilbur Smith;Libro;Storico;9788830401123;1981
+Il dio del fiume;Wilbur Smith;Libro;Storico;9788830411554;1993
+La canzone di Achille;Madeline Miller;Libro;Storico;9788831001119;2011
+Circe;Madeline Miller;Libro;Storico;9788831002222;2018
+L'italiano;Arturo Pérez-Reverte;Libro;Storico;9788817161118;2021
+Salem's Lot;Stephen King;Libro;Horror;9788845294228;1975
+Il cimitero senza nome;Clive Barker;Libro;Horror;9788845211221;1985
+Gesuita rosso;William Peter Blatty;Libro;Horror;9788820011225;1999
+La casa dei sette camini;Nathaniel Hawthorne;Libro;Horror;9788804712214;1851
+La maschera della morte rossa;Edgar Allan Poe;Libro;Horror;9788804710015;1842
+I racconti del terrore;Edgar Allan Poe;Libro;Horror;9788804710022;1845
+Il re in giallo;Robert W. Chambers;Libro;Horror;9788811001115;1895
+Il richiamo di Cthulhu;Howard Phillips Lovecraft;Libro;Horror;9788804713331;1928
+Le montagne della follia;Howard Phillips Lovecraft;Libro;Horror;9788804713348;1936
+La casa stregata;Howard Phillips Lovecraft;Libro;Horror;9788804713355;1937
+Il fantasma dell'Opera;Gaston Leroux;Libro;Avventura;9788804711582;1910
+Il mondo perduto;Arthur Conan Doyle;Libro;Avventura;9788804710257;1912
+Gunga Din e altre storie;Rudyard Kipling;Libro;Avventura;9788804711599;1890
+America perduta;Bill Bryson;Libro;Umoristico;9788850203140;1989
+Un ragazzo;Nick Hornby;Libro;Umoristico;9788823503113;1998
+Il secondo tragico libro di Fantozzi;Paolo Villaggio;Libro;Umoristico;9788817106122;1974
+Senza sangue;Alessandro Baricco;Libro;Biografico;9788807818417;2002
+Novecento;Alessandro Baricco;Libro;Biografico;9788807813023;1994
+Seta;Alessandro Baricco;Libro;Biografico;9788807814426;1996
+Oceano mare;Alessandro Baricco;Libro;Biografico;9788807812545;1993
+La Donna in Bianco;Wilkie Collins;Libro;Giallo;9788807902147;1860
+La Finestra sul Cortile;Cornell George Hopley Woolrich;Libro;Giallo;9788807888229;1942
+Il Simbolo Perduto;Dan Brown (Daniel Gerhard Brown);Libro;Mistery;9788804667261;2009
+Il Richiamo del Cuculo;Joanne Kathleen Rowling (Robert Galbraith);Libro;Mistery;9788804667254;2013
+Uomini che odiano le donne;Stieg Larsson;Libro;Giallo;9788831798310;2005
+La ragazza che giocava con il fuoco;Stieg Larsson;Libro;Giallo;9788831798327;2006
+La regina dei castelli di carta;Stieg Larsson;Libro;Giallo;9788831798334;2007
+Il tribunale delle anime;Donato Carrisi;Libro;Giallo;9788830432345;2011
+Il ladro di merendine;Andrea Camilleri;Libro;Giallo;9788838913143;1996
+La voce del violino;Andrea Camilleri;Libro;Giallo;9788838914157;1997
+Il rapporto Pelican;John Grisham;Libro;Giallo;9788804365518;1992
+L'ombra del vento;Carlos Ruiz Zafón;Libro;Giallo;9788804523315;2001
+Il gioco dell'angelo;Carlos Ruiz Zafón;Libro;Giallo;9788804581112;2008
+Il prigioniero del cielo;Carlos Ruiz Zafón;Libro;Giallo;9788804615521;2011
+Il labirinto degli spiriti;Carlos Ruiz Zafón;Libro;Giallo;9788804673322;2016
+Inferno;Dan Brown;Libro;Giallo;9788804631114;2013
+Harry Potter e il Calice di Fuoco;Joanne Kathleen Rowling;Libro;Fantasy;9788867155989;2000
+Harry Potter e l'Ordine della Fenice;Joanne Kathleen Rowling;Libro;Fantasy;9788867155996;2003
+Harry Potter e il Principe Mezzosangue;Joanne Kathleen Rowling;Libro;Fantasy;9788867156009;2005
+Harry Potter e i Doni della Morte;Joanne Kathleen Rowling;Libro;Fantasy;9788867156016;2007
+Il Pendolo di Foucault;Umberto Eco;Libro;Storico;9788845277498;1988
+Baudolino;Umberto Eco;Libro;Storico;9788845247361;2000
+Vent'anni dopo;Alexandre Dumas;Libro;Storico;9788804724117;1845
+Il visconte di Bragelonne;Alexandre Dumas;Libro;Storico;9788804735511;1847
+Notre-Dame de Paris;Victor Hugo;Libro;Storico;9788804724452;1831
+I reati a lungo termine;Ken Follett;Libro;Storico;9788804512214;2001
+Il re d'inverno;Bernard Cornwell;Libro;Storico;9788830413349;1995
+Il nemico di Dio;Bernard Cornwell;Libro;Storico;9788830414452;1996
+Excalibur;Bernard Cornwell;Libro;Storico;9788830415511;1997
+L'ultimo re;Bernard Cornwell;Libro;Storico;9788830421115;2004
+Un'eredità di avorio e ambra;Wilbur Smith;Libro;Storico;9788830416622;1997
+Carrie;Stephen King;Libro;Horror;9788845294112;1974
+La metà oscura;Stephen King;Libro;Horror;9788820061225;1989
+Cose preziose;Stephen King;Libro;Horror;9788820061441;1991
+Insomnia;Stephen King;Libro;Horror;9788820061552;1994
+Mucchio d'ossa;Stephen King;Libro;Horror;9788820061661;1998
+22/11/'63;Stephen King;Libro;Horror;9788820062112;2011
+Il Dr. Jekyll e il Nr. Hyde;Robert Louis Stevenson;Libro;Horror;9788804710214;1886
+Il ritratto di Dorian Gray;Oscar Wilde;Libro;Horror;9788804710151;1890
+Il giro di vite;Henry James;Libro;Horror;9788804711122;1898
+Persuasione;Jane Austen;Libro;Rosa;9788804712114;1818
+Emma;Jane Austen;Libro;Rosa;9788804715559;1815
+L'abbazia di Northanger;Jane Austen;Libro;Rosa;9788804716112;1817
+Mansfield Park;Jane Austen;Libro;Rosa;9788804717119;1814
+L'amore ai tempi del colera;Gabriel García Márquez;Libro;Rosa;9788804703441;1985
+Il profumo delle foglie di limone;Clara Sánchez;Libro;Rosa;9788817045112;2010
+La ragazza con l'orecchino di perla;Tracy Chevalier;Libro;Rosa;9788845247115;1999
+Colazione da Tiffany;Truman Capote;Libro;Rosa;9788804712235;1958
+Il grande Gatsby;Francis Scott Fitzgerald;Libro;Rosa;9788804710144;1925
+Tenera è la notte;Francis Scott Fitzgerald;Libro;Rosa;9788804711151;1934
+Di qua dal Paradiso;Francis Scott Fitzgerald;Libro;Rosa;9788804711168;1920
+Un amore di Swann;Marcel Proust;Libro;Rosa;9788804710332;1913
+Il dottor Živago;Boris Pasternak;Libro;Rosa;9788804710318;1957
+Il ritratto di signora;Henry James;Libro;Rosa;9788804710283;1881
+La freccia azzurra;Gianni Rodari;Libro;Avventura;9788804712211;1964
+I ragazzi della via Pál;Ferenc Molnár;Libro;Avventura;9788804710301;1906
+Zanna Bianca;Jack London;Libro;Avventura;9788804711551;1906
+Kim;Rudyard Kipling;Libro;Avventura;9788804711513;1901
+Il libro della giungla;Rudyard Kipling;Libro;Avventura;9788804711520;1894
+Il secondo libro della giungla;Rudyard Kipling;Libro;Avventura;9788804711537;1895
+Capitani coraggiosi;Rudyard Kipling;Libro;Avventura;9788804711544;1897
+I viaggi di Gulliver;Jonathan Swift;Libro;Avventura;9788804711414;1726
+Le miniere di re Salomone;Henry Rider Haggard;Libro;Avventura;9788804711421;1885
+La primula rossa;Emmuska Orczy;Libro;Avventura;9788804711438;1905
+Il mistero dell'isola deserta;Emilio Salgari;Libro;Avventura;9788804711445;1903
+I pescatori di trepang;Emilio Salgari;Libro;Avventura;9788804711452;1904
+Sandokan alla riscossa;Emilio Salgari;Libro;Avventura;9788804711469;1907
+La riconquista di Mompracem;Emilio Salgari;Libro;Avventura;9788804711476;1908
+Il re del mare;Emilio Salgari;Libro;Avventura;9788804711483;1906
+La caduta di un impero;Emilio Salgari;Libro;Avventura;9788804711490;1911
+Un americano alla corte di re Artù;Mark Twain;Libro;Umoristico;9788804711568;1889
+Il bell'Antonio;Vitaliano Brancati;Libro;Umoristico;9788817105521;1949
+Don Camillo;Giovannino Guareschi;Libro;Umoristico;9788817106612;1948
+Il compagno Don Camillo;Giovannino Guareschi;Libro;Umoristico;9788817106629;1963
+Candido ovvero l'ottimismo;Voltaire;Libro;Umoristico;9788804711119;1759
+Il visconte dimezzato;Italo Calvino;Libro;Umoristico;9788804710400;1952
+Il barone rampante;Italo Calvino;Libro;Umoristico;9788804710417;1957
+Il cavaliere inesistente;Italo Calvino;Libro;Umoristico;9788804710424;1959
+Marcovaldo;Italo Calvino;Libro;Umoristico;9788804710431;1963
+Se una notte d'inverno un viaggiatore;Italo Calvino;Libro;Umoristico;9788804710448;1979
+La Scomparsa di Stephanie Mailer;Joël Dicker;Libro;Mistery;9788830439870;2018
+Rebecca, la Prima Moglie;Daphne du Maurier;Libro;Mistery;9788807888557;1938
+La Biblioteca dei Morti;Glenn Cooper;Libro;Mistery;9788842915614;2009
+L'Uomo di Gesso;Caroline J. Tudor;Libro;Mistery;9788811609506;2018
+La vampa d'agosto;Andrea Camilleri;Libro;Giallo;9788838921445;2006
+Le ali della sfinge;Andrea Camilleri;Libro;Giallo;9788838922251;2006
+La pista di sabbia;Andrea Camilleri;Libro;Giallo;9788838923166;2007
+L'età del dubbio;Andrea Camilleri;Libro;Giallo;9788838924545;2008
+La danza del gabbiano;Andrea Camilleri;Libro;Giallo;9788838925566;2009
+La caccia al tesoro;Andrea Camilleri;Libro;Giallo;9788838926556;2010
+Il sorriso di Angelica;Andrea Camilleri;Libro;Giallo;9788838927112;2010
+Il gioco degli specchi;Andrea Camilleri;Libro;Giallo;9788838928129;2011
+La lama di luce;Andrea Camilleri;Libro;Giallo;9788838929119;2012
+Una voce di notte;Andrea Camilleri;Libro;Giallo;9788838930115;2012
+La convocazione;John Grisham;Libro;Giallo;9788804515515;2002
+Il re dei torti;John Grisham;Libro;Giallo;9788804524335;2003
+Il Signore degli Anelli;John Ronald Reuel Tolkien;Libro;Fantasy;9788845292613;1954
+Harry Potter e la Pietra Filosofale;Joanne Kathleen Rowling;Libro;Fantasy;9788869183157;1997
+Le Cronache di Narnia;Clive Staples Lewis;Libro;Fantasy;9788804473442;1950
+Eragon;Christopher Paolini;Libro;Fantasy;9788817018340;2002
+Lo Hobbit;John Ronald Reuel Tolkien;Libro;Fantasy;9788845292774;1937
+Percy Jackson e gli Dei dell'Olimpo;Richard Russell Riordan;Libro;Fantasy;9788804668237;2005
+Shadowhunters;Cassandra Clare;Libro;Fantasy;9788804701019;2007
+La Bussola d'Oro;Philip Pullman;Libro;Fantasy;9788884513441;1995
+Il trono di spade;George R. R. Martin;Libro;Fantasy;9788804711513;1996
+Il grande inverno;George R. R. Martin;Libro;Fantasy;9788804711520;1996
+Il regno dei lupi;George R. R. Martin;Libro;Fantasy;9788804711537;1998
+La regina dei draghi;George R. R. Martin;Libro;Fantasy;9788804711544;1998
+Tempesta di spade;George R. R. Martin;Libro;Fantasy;9788804711551;2000
+I fiumi della guerra;George R. R. Martin;Libro;Fantasy;9788804711568;2000
+Il portale delle tenebre;George R. R. Martin;Libro;Fantasy;9788804711575;2000
+La profezia del reo;George R. R. Martin;Libro;Fantasy;9788804711582;2003
+I fuochi di Valyria;George R. R. Martin;Libro;Fantasy;9788804711599;2003
+La danza dei draghi;George R. R. Martin;Libro;Fantasy;9788804711605;2011
+I promessi sposi;Alessandro Manzoni;Libro;Storico;9788804710011;1842
+Menzogna e sortilegio;Elsa Morante;Libro;Storico;9788806225520;1948
+L'isola di Arturo;Elsa Morante;Libro;Storico;9788806225537;1957
+Aracoeli;Elsa Morante;Libro;Storico;9788806225544;1982
+Il ballo delle debuttanti;Julia Quinn;Libro;Rosa;9788804741111;2002
+A sir Phillip, con amore;Julia Quinn;Libro;Rosa;9788804741128;2003
+Amare un libertino;Julia Quinn;Libro;Rosa;9788804741135;2004
+Tutto in un bacio;Julia Quinn;Libro;Rosa;9788804741142;2005
+Il vero amore esiste;Julia Quinn;Libro;Rosa;9788804741159;2006
+Cinquanta sfumature di nero;E. L. James;Libro;Rosa;9788830433304;2012
+Cinquanta sfumature di rosso;E. L. James;Libro;Rosa;9788830433311;2012
+La fattoria degli animali;George Orwell;Libro;Umoristico;9788804711513;1945
+Gulliver's Travels;Jonathan Swift;Libro;Umoristico;9788804711520;1726
+Castelli di rabbia;Alessandro Baricco;Libro;Biografico;9788807811221;1991
+City;Alessandro Baricco;Libro;Biografico;9788807815554;1999
+Emmaus;Alessandro Baricco;Libro;Biografico;9788807017112;2009
+Mr Gwyn;Alessandro Baricco;Libro;Biografico;9788807018664;2011
+Tre volte all'alba;Alessandro Baricco;Libro;Biografico;9788807019050;2012
+La sposa giovane;Alessandro Baricco;Libro;Biografico;9788807031311;2015
+Smith & Wesson;Alessandro Baricco;Libro;Biografico;9788807031222;2014
+I vinti;Giovanni Verga;Libro;Narrativa;9788804710127;1881
+I Malavoglia;Giovanni Verga;Libro;Narrativa;9788804710134;1881
+Mastro-don Gesualdo;Giovanni Verga;Libro;Narrativa;9788804710141;1889
+Vita dei campi;Giovanni Verga;Libro;Narrativa;9788804710158;1880
+Novelle rusticane;Giovanni Verga;Libro;Narrativa;9788804710165;1883
+Il fu Mattia Pascal;Luigi Pirandello;Libro;Narrativa;9788804710189;1904
+Uno, nessuno e centomila;Luigi Pirandello;Libro;Narrativa;9788804710196;1926
+I vecchi e i giovani;Luigi Pirandello;Libro;Narrativa;9788804710202;1913
+Suo marito;Luigi Pirandello;Libro;Narrativa;9788804710219;1911
+Quaderni di Serafino Gubbio operatore;Luigi Pirandello;Libro;Narrativa;9788804710226;1925
+L'esclusa;Luigi Pirandello;Libro;Narrativa;9788804710233;1901
+La coscienza di Zeno;Italo Svevo;Libro;Narrativa;9788804710240;1923
+Una vita;Italo Svevo;Libro;Narrativa;9788804710257;1892
+Senilità;Italo Svevo;Libro;Narrativa;9788804710264;1898
+Ulisse;James Joyce;Libro;Narrativa;9788804710271;1922
+Gente di Dublino;James Joyce;Libro;Narrativa;9788804710288;1914
+Dedalus;James Joyce;Libro;Narrativa;9788804710295;1916
+La metamorfosi;Franz Kafka;Libro;Narrativa;9788804710301;1915
+Il processo;Franz Kafka;Libro;Narrativa;9788804710318;1925
+Il castello;Franz Kafka;Libro;Narrativa;9788804710325;1926
+America;Franz Kafka;Libro;Narrativa;9788804710332;1927
+La montagna incantata;Thomas Mann;Libro;Narrativa;9788804710349;1924
+I Buddenbrook;Thomas Mann;Libro;Narrativa;9788804710356;1901
+La morte a Venezia;Thomas Mann;Libro;Narrativa;9788804710363;1912
+Doctor Faustus;Thomas Mann;Libro;Narrativa;9788804710370;1947
+Altezza reale;Thomas Mann;Libro;Narrativa;9788804710387;1909
+La casa delle voci;Donato Carrisi;Libro;Giallo;9788830453319;2019
+Il gioco del suggeritore;Donato Carrisi;Libro;Giallo;9788830451551;2018
+Io uccido;Giorgio Faletti;Libro;Giallo;9788863802114;2002
+Niente è come sembra;Erich Hackl;Libro;Giallo;9788807015521;1987
+Il giorno della civetta;Leonardo Sciascia;Libro;Giallo;9788845901119;1961
+A ciascuno il suo;Leonardo Sciascia;Libro;Giallo;9788845901225;1966
+Il contesto;Leonardo Sciascia;Libro;Giallo;9788845901331;1971
+La lama dell'assassino;Sarah J. Maas;Libro;Fantasy;9788804671114;2014
+Il trono di ghiaccio;Sarah J. Maas;Libro;Fantasy;9788804671121;2012
+La corona di mezzanotte;Sarah J. Maas;Libro;Fantasy;9788804671138;2013
+L'erede di fuoco;Sarah J. Maas;Libro;Fantasy;9788804671145;2014
+Regina delle ombre;Sarah J. Maas;Libro;Fantasy;9788804671152;2015
+Impero di tempeste;Sarah J. Maas;Libro;Fantasy;9788804671169;2016
+La torre dell'alba;Sarah J. Maas;Libro;Fantasy;9788804671176;2017
+Regno di cenere;Sarah J. Maas;Libro;Fantasy;9788804671183;2018
+Il priorato dell'albero delle arance;Samantha Shannon;Libro;Fantasy;9788804712541;2019
+Il re dei demoni;Cinda Williams Chima;Libro;Fantasy;9788834716113;2009
+La regina esiliata;Cinda Williams Chima;Libro;Fantasy;9788834717127;2010
+I re grigi;Scott Lynch;Libro;Fantasy;9788842915552;2007
+La repubblica dei ladri;Scott Lynch;Libro;Fantasy;9788842921114;2013
+La ragazza di fuoco;Suzanne Collins;Libro;Fantasy;9788804595552;2009
+Il canto della rivolta;Suzanne Collins;Libro;Fantasy;9788804603112;2010
+Balla con i lupi;Michael Blake;Libro;Avventura;9788820011118;1888
+Zanna Rossa;Jack London;Libro;Avventura;9788804711612;1908
+La perla;John Steinbeck;Libro;Avventura;9788804710452;1947
+L'inseguimento;Arthur Conan Doyle;Libro;Avventura;9788804710331;1890
+Il ragazzo rapito;Robert Louis Stevenson;Libro;Avventura;9788804710348;1886
+Catriona;Robert Louis Stevenson;Libro;Avventura;9788804710355;1893
+Il signor di Ballantrae;Robert Louis Stevenson;Libro;Avventura;9788804710362;1889
+I pirati della Malesia;Emilio Salgari;Libro;Avventura;9788804711612;1896
+Le due tigri;Emilio Salgari;Libro;Avventura;9788804711629;1904
+Il Re della Prateria;Emilio Salgari;Libro;Avventura;9788804711636;1896
+I minatori della Liguria;Emilio Salgari;Libro;Avventura;9788804711643;1903
+La scimitarra di Budda;Emilio Salgari;Libro;Avventura;9788804711650;1892
+I naufraghi dello Spitzberg;Emilio Salgari;Libro;Avventura;9788804711667;1893
+Le caverne dei diamanti;Henry Rider Haggard;Libro;Avventura;9788804711674;1887
+Allan Quatermain;Henry Rider Haggard;Libro;Avventura;9788804711681;1887
+La sposa del deserto;Emilio Salgari;Libro;Avventura;9788804711698;1905
+La favorita del Mahdi;Emilio Salgari;Libro;Avventura;9788804711704;1887
+Il tesoro della montagna azzurra;Emilio Salgari;Libro;Avventura;9788804711711;1907
+Le pantere di Algeri;Emilio Salgari;Libro;Avventura;9788804711728;1903
+Il brigante di Sierra Morena;Emilio Salgari;Libro;Avventura;9788804711735;1905
+I Robinson italiani;Emilio Salgari;Libro;Avventura;9788804711742;1896
+La stella dell'Araucania;Emilio Salgari;Libro;Avventura;9788804711759;1906
+La regina dei cipressi;Daphne du Maurier;Libro;Rosa;9788807888112;1936
+Un amore indimenticabile;Nicholas Sparks;Libro;Rosa;9788820029913;1999
+Come un uragano;Nicholas Sparks;Libro;Rosa;9788820034412;2002
+Il posto che cercavo;Nicholas Sparks;Libro;Rosa;9788820040015;2005
+La scelta;Nicholas Sparks;Libro;Rosa;9788820044419;2007
+L'ultima canzone;Nicholas Sparks;Libro;Rosa;9788820048813;2009
+Il meglio di me;Nicholas Sparks;Libro;Rosa;9788820052216;2011
+La ragazza del parco;Jojo Moyes;Libro;Rosa;9788804641125;2014
+Dopo di te;Jojo Moyes;Libro;Rosa;9788804661131;2015
+Sono sempre io;Jojo Moyes;Libro;Rosa;9788804681145;2018
+Ti regalo le stelle;Jojo Moyes;Libro;Rosa;9788804711152;2019
+L'ora delle streghe;Anne Rice;Libro;Horror;9788850204113;1990
+Il demone incarnato;Anne Rice;Libro;Horror;9788850205523;1993
+Taltos, il ritorno;Anne Rice;Libro;Horror;9788850206639;1994
+La saga di Darren Shan;Darren Shan;Libro;Horror;9788845249112;2000
+Il crepuscolo dei vampiri;Darren Shan;Libro;Horror;9788845251122;2001
+Un sacco d'ossa;Stephen King;Libro;Horror;9788820027773;1998
+La bambina che amava Tom Gordon;Stephen King;Libro;Horror;9788820029227;1999
+Buick 8;Stephen King;Libro;Horror;9788820034443;2002
+Colorado Kid;Stephen King;Libro;Horror;9788820039912;2005
+Cell;Stephen King;Libro;Horror;9788820040114;2006
+La storia di Lisey;Stephen King;Libro;Horror;9788820041128;2006
+Joyland;Stephen King;Libro;Horror;9788820054321;2013
+Doctor Sleep;Stephen King;Libro;Horror;9788820055519;2013
+Mr. Mercedes;Stephen King;Libro;Horror;9788820056625;2014
+Chi perde paga;Stephen King;Libro;Horror;9788820058810;2015
+Fine turno;Stephen King;Libro;Horror;9788820060011;2016
+Il bazar dei brutti sogni;Stephen King;Libro;Horror;9788820061119;2015
+L'istituto;Stephen King;Libro;Horror;9788820068114;2019
+The Outsider;Stephen King;Libro;Horror;9788820065519;2018
+Later;Stephen King;Libro;Horror;9788820071112;2021
+Billy Summers;Stephen King;Libro;Horror;9788820072225;2021
+Fairy Tale;Stephen King;Libro;Horror;9788820075551;2022
+Holly;Stephen King;Libro;Horror;9788820078886;2023
+You Like It Darker;Stephen King;Libro;Horror;9788820081114;2024
+La nebbia;Stephen King;Libro;Horror;9788820051115;1980
+Il metodo Catalanotti;Andrea Camilleri;Libro;Giallo;9788838938111;2018
+Il cuoco dell'Alcyon;Andrea Camilleri;Libro;Giallo;9788838939546;2019
+Riccardino;Andrea Camilleri;Libro;Giallo;9788838940016;2020
+La setta dei villani;Andrea Camilleri;Libro;Giallo;9788838941112;2020
+La tana delle vipere;Andrea Camilleri;Libro;Giallo;9788838936112;2017
+La giostra degli scambi;Andrea Camilleri;Libro;Giallo;9788838935115;2015
+Un covo di vipere;Andrea Camilleri;Libro;Giallo;9788838933111;2013
+La piramide di fango;Andrea Camilleri;Libro;Giallo;9788838932114;2014
+La regina rossa;Victoria Aveyard;Libro;Fantasy;9788804655115;2015
+Spada di vetro;Victoria Aveyard;Libro;Fantasy;9788804663110;2016
+Gabbia del re;Victoria Aveyard;Libro;Fantasy;9788804675551;2017
+Tempesta di guerra;Victoria Aveyard;Libro;Fantasy;9788804689912;2018
+Cinder;Marissa Meyer;Libro;Fantasy;9788856625114;2012
+Scarlet;Marissa Meyer;Libro;Fantasy;9788856625121;2013
+Cress;Marissa Meyer;Libro;Fantasy;9788856625138;2014
+Winter;Marissa Meyer;Libro;Fantasy;9788856625145;2015
+Un'ombra in estate;Daniel Abraham;Libro;Fantasy;9788842915112;2006
+Un tradimento in inverno;Daniel Abraham;Libro;Fantasy;9788842915129;2007
+Le guerre dell'autunno;Daniel Abraham;Libro;Fantasy;9788842915136;2008
+Il prezzo della primavera;Daniel Abraham;Libro;Fantasy;9788842915143;2009
+Il sangue e la cenere;Jennifer L. Armentrout;Libro;Fantasy;9788804741122;2020
+Un regno di carne e fuoco;Jennifer L. Armentrout;Libro;Fantasy;9788804741139;2020
+La corona di ossa d'oro;Jennifer L. Armentrout;Libro;Fantasy;9788804741146;2021
+La guerra delle due regine;Jennifer L. Armentrout;Libro;Fantasy;9788804741153;2022
+Un'anima di cenere e sangue;Jennifer L. Armentrout;Libro;Fantasy;9788804741160;2023
+Il re del mare;Emilio Salgari;Libro;Avventura;9788804711766;1906
+La conquista di un impero;Emilio Salgari;Libro;Avventura;9788804711773;1907
+Il sotterraneo della morte;Emilio Salgari;Libro;Avventura;9788804711780;1892
+I pescatori di balene;Emilio Salgari;Libro;Avventura;9788804711797;1894
+Un dramma nell'Oceano Pacifico;Emilio Salgari;Libro;Avventura;9788804711803;1895
+Attraverso l'Atlantico in pallone;Emilio Salgari;Libro;Avventura;9788804711810;1896
+I cacciatori di lupi;Emilio Salgari;Libro;Avventura;9788804711827;1894
+I cacciatori di balene;Emilio Salgari;Libro;Avventura;9788804711834;1899
+La perla del Rio Colorado;Emilio Salgari;Libro;Avventura;9788804711841;1900
+Gli scorridori del mare;Emilio Salgari;Libro;Avventura;9788804711858;1902
+I minatori del West;Emilio Salgari;Libro;Avventura;9788804711865;1904
+Le aquile della steppa;Emilio Salgari;Libro;Avventura;9788804711872;1907
+La campana d'oro;Emilio Salgari;Libro;Avventura;9788804711889;1909
+I cacciatori del West;Emilio Salgari;Libro;Avventura;9788804711896;1908
+L'isola della tempesta;Daniel Defoe;Libro;Avventura;9788804711506;1724
+La vita del capitano Singleton;Daniel Defoe;Libro;Avventura;9788804711513;1720
+Le avventure del capitano Hatteras;Jules Verne;Libro;Avventura;9788804711520;1866
+I figli del capitano Grant;Jules Verne;Libro;Avventura;9788804711537;1867
+Dalla Terra alla Luna;Jules Verne;Libro;Avventura;9788804711544;1865
+Intorno alla Luna;Jules Verne;Libro;Avventura;9788804711551;1870
+L'isola misteriosa;Jules Verne;Libro;Avventura;9788804711568;1874
+Michele Strogoff;Jules Verne;Libro;Avventura;9788804711575;1876
+Il raggio verde;Jules Verne;Libro;Avventura;9788804711582;1882
+Un biglietto della lotteria;Jules Verne;Libro;Avventura;9788804711599;1886
+Due anni di vacanze;Jules Verne;Libro;Avventura;9788804711605;1888
+Il castello dei Carpazi;Jules Verne;Libro;Avventura;9788804711612;1892
+La sfinge dei ghiacci;Jules Verne;Libro;Avventura;9788804711629;1897
+Il villaggio aereo;Jules Verne;Libro;Avventura;9788804711636;1901
+Il faro in capo al mondo;Jules Verne;Libro;Avventura;9788804711643;1905
+Il vulcano d'oro;Jules Verne;Libro;Avventura;9788804711650;1906
+L'agenzia Thompson & Co.;Jules Verne;Libro;Avventura;9788804711667;1907
+La caccia alla meteora;Jules Verne;Libro;Avventura;9788804711674;1908
+Il pilota del Danubio;Jules Verne;Libro;Avventura;9788804711681;1908
+I naufraghi del Jonathan;Jules Verne;Libro;Avventura;9788804711698;1909
+Il segreto di Wilhelm Storitz;Jules Verne;Libro;Avventura;9788804711704;1910
+Lo stupendo Orinoco;Jules Verne;Libro;Avventura;9788804711711;1898
+Il testamento di un eccentrico;Jules Verne;Libro;Avventura;9788804711728;1899
+I fratelli Kip;Jules Verne;Libro;Avventura;9788804711735;1902
+Borse di viaggio;Jules Verne;Libro;Avventura;9788804711742;1903
+Un dramma in Livonia;Jules Verne;Libro;Avventura;9788804711759;1904
+L'invasione del mare;Jules Verne;Libro;Avventura;9788804711766;1905
+Il bacio della donna ragno;Manuel Puig;Libro;Rosa;9788807881115;1976
+L'amante;Marguerite Duras;Libro;Rosa;9788807882228;1984
+Un amore;Dino Buzzati;Libro;Rosa;9788804710223;1963
+La noia;Alberto Moravia;Libro;Rosa;9788817101115;1960
+Gli indifferenti;Alberto Moravia;Libro;Rosa;9788817101221;1929
+Agostino;Alberto Moravia;Libro;Rosa;9788817101337;1943
+La romana;Alberto Moravia;Libro;Rosa;9788817101443;1947
+La ciociara;Alberto Moravia;Libro;Rosa;9788817101559;1957
+Il disprezzo;Alberto Moravia;Libro;Rosa;9788817101665;1954
+L'attenzione;Alberto Moravia;Libro;Rosa;9788817101771;1965
+La vita interiore;Alberto Moravia;Libro;Rosa;9788817101887;1978
+L'uomo che guarda;Alberto Moravia;Libro;Rosa;9788817101993;1985
+Il viaggio a Roma;Alberto Moravia;Libro;Rosa;9788817102112;1988
+La donna leopardo;Alberto Moravia;Libro;Rosa;9788817102228;1991
+Il sosia;Franz Kafka;Libro;Narrativa;9788804710394;1912
+La colonia penale;Franz Kafka;Libro;Narrativa;9788804710400;1919
+Un medico di campagna;Franz Kafka;Libro;Narrativa;9788804710417;1919
+Un digiunatore;Franz Kafka;Libro;Narrativa;9788804710424;1924
+Lettera al padre;Franz Kafka;Libro;Narrativa;9788804710431;1919
+La rinuncia;Franz Kafka;Libro;Narrativa;9788804710448;1914
+La passeggiata;Robert Walser;Libro;Narrativa;9788845901112;1917
+I fratelli Tanner;Robert Walser;Libro;Narrativa;9788845901228;1907
+L'assistente;Robert Walser;Libro;Narrativa;9788845901334;1908
+Jakob von Gunten;Robert Walser;Libro;Narrativa;9788845901440;1909
+La morte di Ivan Il'ic;Lev Nikolaevic Tolstoj;Libro;Narrativa;9788804710455;1886
+Sonata a Kreutzer;Lev Nikolaevic Tolstoj;Libro;Narrativa;9788804710462;1889
+Padre Sergio;Lev Nikolaevic Tolstoj;Libro;Narrativa;9788804710479;1911
+Resurrezione;Lev Nikolaevic Tolstoj;Libro;Narrativa;9788804710486;1899
+Chadzhi-Murat;Lev Nikolaevic Tolstoj;Libro;Narrativa;9788804710493;1912
+I cosacchi;Lev Nikolaevic Tolstoj;Libro;Narrativa;9788804710509;1863
+La tempesta di neve;Lev Nikolaevic Tolstoj;Libro;Narrativa;9788804710516;1856
+I racconti di Sebastopoli;Lev Nikolaevic Tolstoj;Libro;Narrativa;9788804710523;1855
+La felicità domestica;Lev Nikolaevic Tolstoj;Libro;Narrativa;9788804710530;1859
+Polikuska;Lev Nikolaevic Tolstoj;Libro;Narrativa;9788804710547;1863
+Al di là del bene e del male;Friedrich Nietzsche;Libro;Saggistica;9788845241114;1886
+Così parlò Zarathustra;Friedrich Nietzsche;Libro;Saggistica;9788845241220;1883
+Ecce Homo;Friedrich Nietzsche;Libro;Saggistica;9788845241336;1908
+L'anticristo;Friedrich Nietzsche;Libro;Saggistica;9788845241442;1895
+La gaia scienza;Friedrich Nietzsche;Libro;Saggistica;9788845241558;1882
+Umano, troppo umano;Friedrich Nietzsche;Libro;Saggistica;9788845241664;1878
+La nascita della tragedia;Friedrich Nietzsche;Libro;Saggistica;9788845241770;1872
+Crepuscolo degli idoli;Friedrich Nietzsche;Libro;Saggistica;9788845241886;1889
+Aurora;Friedrich Nietzsche;Libro;Saggistica;9788845241992;1881
+Il caso Wagner;Friedrich Nietzsche;Libro;Saggistica;9788845242111;1888
+Nietzsche contra Wagner;Friedrich Nietzsche;Libro;Saggistica;9788845242227;1889
+La volontà di potenza;Friedrich Nietzsche;Libro;Saggistica;9788845242333;1901
+La caduta;Albert Camus;Libro;Narrativa;9788845245552;1956
+L'esilio e il regno;Albert Camus;Libro;Narrativa;9788845245668;1957
+Il primo uomo;Albert Camus;Libro;Narrativa;9788845245774;1994
+La morte felice;Albert Camus;Libro;Narrativa;9788845245880;1971
+L'estate;Albert Camus;Libro;Narrativa;9788845245996;1954
+I monologhi della vagina;Eve Ensler;Libro;Narrativa;9788845223341;1996
+Il profeta;Kahlil Gibran;Libro;Narrativa;9788830101115;1923
+Le ali spezzate;Kahlil Gibran;Libro;Narrativa;9788830101221;1912
+Il folle;Kahlil Gibran;Libro;Narrativa;9788830101337;1918
+Il vagabondo;Kahlil Gibran;Libro;Narrativa;9788830101443;1932
+La voce del maestro;Kahlil Gibran;Libro;Narrativa;9788830101559;1958
+Il segreto del cuore;Kahlil Gibran;Libro;Narrativa;9788830101665;1947
+L'ira divina;Stefan Zweig;Libro;Narrativa;9788845911115;1911
+Lettera di una sconosciuta;Stefan Zweig;Libro;Narrativa;9788845911221;1922
+Amok;Stefan Zweig;Libro;Narrativa;9788845911337;1922
+Mendel dei libri;Stefan Zweig;Libro;Narrativa;9788845911443;1929
+Sovvertimento dei sensi;Stefan Zweig;Libro;Narrativa;9788845911559;1927
+Paura;Stefan Zweig;Libro;Narrativa;9788845911665;1925
+Bruciante segreto;Stefan Zweig;Libro;Narrativa;9788845911771;1911
+La signorina Else;Arthur Schnitzler;Libro;Narrativa;9788845903342;1924
+Doppio sogno;Arthur Schnitzler;Libro;Narrativa;9788845903458;1926
+Fuga nelle tenebre;Arthur Schnitzler;Libro;Narrativa;9788845903564;1931
+Gioco all'alba;Arthur Schnitzler;Libro;Narrativa;9788845903670;1927
+Morire;Arthur Schnitzler;Libro;Narrativa;9788845903786;1894
+Girotondo;Arthur Schnitzler;Libro;Narrativa;9788845903908;1900
+La via del bosco;Arthur Schnitzler;Libro;Narrativa;9788845904011;1903
+Sulla pietra tombale;Arthur Schnitzler;Libro;Narrativa;9788845904127;1910
+Casanova a Spa;Arthur Schnitzler;Libro;Narrativa;9788845904233;1918
+Il velo di Beatrice;Arthur Schnitzler;Libro;Narrativa;9788845904349;1900
+Sotto le ruote;Hermann Hesse;Libro;Narrativa;9788804710114;1906
+Gertrud;Hermann Hesse;Libro;Narrativa;9788804710121;1910
+Rosshalde;Hermann Hesse;Libro;Narrativa;9788804710138;1914
+Knulp;Hermann Hesse;Libro;Narrativa;9788804710145;1915
+Demian;Hermann Hesse;Libro;Narrativa;9788804710152;1919
+Klein e Wagner;Hermann Hesse;Libro;Narrativa;9788804710169;1919
+L'ultima estate di Klingsor;Hermann Hesse;Libro;Narrativa;9788804710176;1920
+Il pellegrinaggio in Oriente;Hermann Hesse;Libro;Narrativa;9788804710183;1932
+Fiabe;Hermann Hesse;Libro;Narrativa;9788804710190;1919
+L'arte dell'ozio;Hermann Hesse;Libro;Narrativa;9788804710206;1904
+Gassir il vincitore;Hermann Hesse;Libro;Narrativa;9788804710213;1921
+Lettere d'amore;Hermann Hesse;Libro;Narrativa;9788804710220;1945
+Sul vangelo di Giovanni;Hermann Hesse;Libro;Narrativa;9788804710237;1934
+La cura;Hermann Hesse;Libro;Narrativa;9788804710244;1925
+Il re della Cina;Hermann Hesse;Libro;Narrativa;9788804710251;1911
+Il viandante;Hermann Hesse;Libro;Narrativa;9788804710268;1920
+Amor fati;Hermann Hesse;Libro;Narrativa;9788804710275;1933
+La festa d'autunno;Hermann Hesse;Libro;Narrativa;9788804710282;1928
+Sguardi nel caos;Hermann Hesse;Libro;Narrativa;9788804710299;1920
+Passione Eterna - Vol. 3;Francesca Neri;audio;audio;AUD-8292-001;1997
+Frammenti di Luce - Vol. 4;Fabrizio De André;audio;audio;AUD-4086-002;2024
+Sogni di Cristallo - Vol. 1;Laura Pausini;audio;audio;AUD-7703-003;2022
+Il Sole a Mezzanotte - Vol. 5;Piero Angela;audio;audio;AUD-3027-004;2021
+Canzoni della Terra - Vol. 5;Giovanni Pascoli;audio;audio;AUD-3235-005;2005
+Viaggio d'Inverno - Vol. 2;Ennio Morricone;audio;audio;AUD-3287-006;2023
+Il Tempo che Passa - Vol. 1;Sofia Loren;video;video;VID-3590-007;2005
+Il Grande Viaggio - Vol. 5;Laura Pausini;video;video;VID-5513-008;2019
+Passione Eterna - Vol. 3;Alessandro Manzoni;audio;audio;AUD-2603-009;2022
+Storie di Eroi - Vol. 3;Andrea Bocelli;video;video;VID-5868-010;2022
+Armonie Nascoste - Vol. 5;Federico Fellini;audio;audio;AUD-3816-011;1991
+Il Grande Viaggio - Vol. 5;Giacomo Leopardi;video;video;VID-5981-012;1994
+Sotto le Stelle - Vol. 4;Francesca Neri;audio;audio;AUD-8601-013;2002
+Vento del Sud - Vol. 4;Giuseppe Verdi;audio;audio;AUD-7675-014;1990
+Il Destino dell'Universo - Vol. 4;Mario Rossi;video;video;VID-5340-015;2013
+Impero Romano: Ascesa e Caduta - Vol. 2;Laura Pausini;video;video;VID-4591-016;2014
+Sinfonia di Primavera - Vol. 5;Ennio Morricone;audio;audio;AUD-2704-017;2008
+Storie di Eroi - Vol. 2;Vittorio De Sica;video;video;VID-9356-018;1999
+I Guardiani della Foresta - Vol. 2;Giacomo Leopardi;video;video;VID-5977-019;1992
+Dizionario della Lingua Italiana - Vol. 3;Giovanni Pascoli;cdrom;cdrom;CDR-5314-020;1994
+Sotto le Stelle - Vol. 5;Federico Fellini;audio;audio;AUD-7073-021;2011
+Storie di Eroi - Vol. 1;Giuseppe Verdi;video;video;VID-9076-022;2008
+I Segreti dello Spazio - Vol. 4;Roberto Benigni;video;video;VID-1471-023;1993
+Corso Interattivo di Inglese - Vol. 1;Ennio Morricone;cdrom;cdrom;CDR-7045-024;1991
+Dizionario della Lingua Italiana - Vol. 3;Lucio Dalla;cdrom;cdrom;CDR-3261-025;2022
+Geografia del Mondo - Vol. 3;Eros Ramazzotti;cdrom;cdrom;CDR-8456-026;1995
+Impara la Matematica - Vol. 3;Eros Ramazzotti;cdrom;cdrom;CDR-8498-027;2008
+Guida ai Monumenti di Roma - Vol. 3;Luigi Bianchi;cdrom;cdrom;CDR-2086-028;2008
+Meraviglie d'Italia - Vol. 5;Dante Alighieri;video;video;VID-7125-029;1994
+Il Sole a Mezzanotte - Vol. 2;Andrea Bocelli;audio;audio;AUD-7000-030;2014
+Avventura tra i Ghiacci - Vol. 2;Federico Fellini;video;video;VID-3441-031;1998
+La Scienza per i Ragazzi - Vol. 3;Ennio Morricone;cdrom;cdrom;CDR-5783-032;1999
+L'Atlante delle Stelle - Vol. 2;Antonio Vivaldi;cdrom;cdrom;CDR-8657-033;2007
+Il Mondo degli Animali CD - Vol. 4;Fabrizio De André;cdrom;cdrom;CDR-7793-034;1997
+L'Atlante delle Stelle - Vol. 4;Antonio Vivaldi;cdrom;cdrom;CDR-1289-035;1997
+Il Mio Primo Ricettario Digitale - Vol. 3;Eros Ramazzotti;cdrom;cdrom;CDR-3496-036;2007
+Geografia del Mondo - Vol. 5;Elena Santoro;cdrom;cdrom;CDR-5678-037;1992
+L'Enigma di Leonardo - Vol. 1;Laura Pausini;video;video;VID-6013-038;2023
+La Scienza per i Ragazzi - Vol. 1;Antonio Vivaldi;cdrom;cdrom;CDR-3168-039;2005
+Enciclopedia Multimediale 2004 - Vol. 2;Lucio Dalla;cdrom;cdrom;CDR-2549-040;2007
+Software di Astronomia - Vol. 2;Vittorio De Sica;cdrom;cdrom;CDR-5178-041;2024
+I Guardiani della Foresta - Vol. 3;Alessandro Manzoni;video;video;VID-2193-042;2019
+L'Atlante delle Stelle - Vol. 2;Giovanni Pascoli;cdrom;cdrom;CDR-4939-043;2006
+Un Nuovo Inizio - Vol. 1;Eros Ramazzotti;audio;audio;AUD-9065-044;2004
+Il Tempo che Passa - Vol. 1;Andrea Bocelli;video;video;VID-7451-045;2023
+Il Sole a Mezzanotte - Vol. 3;Andrea Bocelli;audio;audio;AUD-5681-046;2010
+Botanica Interattiva - Vol. 2;Alessandro Manzoni;cdrom;cdrom;CDR-5970-047;2004
+La Divina Commedia - Vol. 1;Vittorio De Sica;audio;audio;AUD-9413-048;2011
+La Città Perduta - Vol. 5;Eros Ramazzotti;video;video;VID-9332-049;2014
+Il Canto della Luna - Vol. 4;Sofia Loren;audio;audio;AUD-3950-050;2016
+Il Sole a Mezzanotte - Vol. 1;Dante Alighieri;audio;audio;AUD-9954-051;2005
+Un Nuovo Inizio - Vol. 2;Giuseppe Verdi;audio;audio;AUD-6226-052;1995
+Sinfonia di Primavera - Vol. 3;Federico Fellini;audio;audio;AUD-6552-053;1999
+Software di Astronomia - Vol. 4;Laura Pausini;cdrom;cdrom;CDR-5279-054;1994
+Frammenti di Luce - Vol. 5;Eros Ramazzotti;audio;audio;AUD-1366-055;2010
+Il Destino dell'Universo - Vol. 1;Alberto Angela;video;video;VID-9529-056;2006
+Sinfonia di Primavera - Vol. 3;Giacomo Leopardi;audio;audio;AUD-6623-057;1992
+Impero Romano: Ascesa e Caduta - Vol. 3;Elena Santoro;video;video;VID-8809-058;1991
+Il Mondo degli Animali CD - Vol. 3;Laura Pausini;cdrom;cdrom;CDR-7593-059;2013
+L'Enigma di Leonardo - Vol. 4;Andrea Bocelli;video;video;VID-7430-060;1993
+Software di Astronomia - Vol. 3;Fabrizio De André;cdrom;cdrom;CDR-9945-061;1999
+Dizionario Enciclopedico - Vol. 3;Italo Calvino;cdrom;cdrom;CDR-3349-062;2024
+Avventura tra i Ghiacci - Vol. 2;Alessandro Manzoni;video;video;VID-2495-063;2004
+Armonie Nascoste - Vol. 4;Alessandro Manzoni;audio;audio;AUD-2332-064;2009
+Dizionario della Lingua Italiana - Vol. 2;Giovanni Pascoli;cdrom;cdrom;CDR-6979-065;1997
+Il Mio Primo Ricettario Digitale - Vol. 1;Giacomo Leopardi;cdrom;cdrom;CDR-8469-066;2014
+Imparare a Dipingere - Vol. 4;Roberto Benigni;cdrom;cdrom;CDR-9438-067;1999
+La Divina Commedia - Vol. 4;Andrea Bocelli;audio;audio;AUD-4097-068;2004
+L'Ultimo Segreto - Vol. 4;Roberto Benigni;video;video;VID-6658-069;2007
+Passione Eterna - Vol. 4;Laura Pausini;audio;audio;AUD-6047-070;2022
+Sinfonia di Primavera - Vol. 4;Dante Alighieri;audio;audio;AUD-6414-071;1998
+Viaggio d'Inverno - Vol. 3;Italo Calvino;audio;audio;AUD-1176-072;2004
+Corso di Chitarra per Principianti - Vol. 4;Roberto Benigni;cdrom;cdrom;CDR-4882-073;1996
+Impero Romano: Ascesa e Caduta - Vol. 1;Michelangelo Buonarroti;video;video;VID-4726-074;2004
+L'Enigma di Leonardo - Vol. 1;Dante Alighieri;video;video;VID-7170-075;1991
+L'Ultimo Segreto - Vol. 1;Antonio Vivaldi;video;video;VID-7602-076;2010
+Canzoni della Terra - Vol. 3;Alessandro Manzoni;audio;audio;AUD-9774-077;2000
+Musica Maestosa - Vol. 1;Giacomo Leopardi;audio;audio;AUD-8806-078;2019
+Imparare a Dipingere - Vol. 2;Federico Fellini;cdrom;cdrom;CDR-9836-079;2023
+Echi del Passato - Vol. 3;Eros Ramazzotti;audio;audio;AUD-3016-080;1992
+Archivio Storico Digitale - Vol. 4;Laura Pausini;cdrom;cdrom;CDR-1679-081;2026
+Il Mistero del Faraone - Vol. 5;Giuseppe Verdi;video;video;VID-4561-082;1992
+Cronache Future - Vol. 3;Ennio Morricone;video;video;VID-8853-083;2016
+La Divina Commedia - Vol. 3;Francesca Neri;audio;audio;AUD-3928-084;2013
+Botanica Interattiva - Vol. 1;Fabrizio De André;cdrom;cdrom;CDR-5944-085;1991
+Sogni di Cristallo - Vol. 2;Giuseppe Verdi;audio;audio;AUD-8775-086;2006
+I Segreti dello Spazio - Vol. 5;Giovanni Pascoli;video;video;VID-1538-087;2005
+Dizionario della Lingua Italiana - Vol. 2;Fabrizio De André;cdrom;cdrom;CDR-5889-088;1996
+Battito Urbano - Vol. 1;Ennio Morricone;audio;audio;AUD-3633-089;1993
+Avventura tra i Ghiacci - Vol. 2;Giuseppe Verdi;video;video;VID-7771-090;2005
+L'Atlante delle Stelle - Vol. 3;Elena Santoro;cdrom;cdrom;CDR-1763-091;1990
+Il Canto della Luna - Vol. 3;Alessandro Manzoni;audio;audio;AUD-7955-092;2012
+Enciclopedia Multimediale 2004 - Vol. 4;Roberto Benigni;cdrom;cdrom;CDR-6696-093;2025
+Armonie Nascoste - Vol. 3;Michelangelo Buonarroti;audio;audio;AUD-9459-094;1997
+Documentario: La Vita nei Mari - Vol. 3;Andrea Bocelli;video;video;VID-3721-095;2003
+L'Enigma di Leonardo - Vol. 4;Mario Rossi;video;video;VID-4066-096;2019
+Musica Maestosa - Vol. 1;Italo Calvino;audio;audio;AUD-1754-097;1995
+Passione Eterna - Vol. 4;Vittorio De Sica;audio;audio;AUD-2475-098;2010
+Il Canto della Luna - Vol. 3;Luigi Bianchi;audio;audio;AUD-9293-099;2015
+Sogni di Cristallo - Vol. 1;Francesca Neri;audio;audio;AUD-8763-100;1995
+Luci della Ribalta - Vol. 3;Laura Pausini;video;video;VID-9497-101;2002
+Un Nuovo Inizio - Vol. 1;Andrea Bocelli;audio;audio;AUD-5477-102;2013
+I Guardiani della Foresta - Vol. 4;Elena Santoro;video;video;VID-3782-103;2017
+Il Mio Primo Ricettario Digitale - Vol. 5;Eros Ramazzotti;cdrom;cdrom;CDR-4270-104;1994
+Note d'Autunno - Vol. 4;Andrea Bocelli;audio;audio;AUD-8169-105;2018
+Documentario: La Vita nei Mari - Vol. 3;Leonardo da Vinci;video;video;VID-1540-106;2024
+Il Canto della Luna - Vol. 1;Francesca Neri;audio;audio;AUD-1164-107;1997
+Il Mio Primo Ricettario Digitale - Vol. 3;Fabrizio De André;cdrom;cdrom;CDR-3751-108;1997
+Il Tempo che Passa - Vol. 5;Luigi Bianchi;video;video;VID-9056-109;2012
+Le Grandi Opere d'Arte - Vol. 1;Eros Ramazzotti;video;video;VID-5641-110;1994
+Meraviglie d'Italia - Vol. 5;Andrea Bocelli;video;video;VID-7048-111;2015
+Il Mio Primo Ricettario Digitale - Vol. 5;Piero Angela;cdrom;cdrom;CDR-2922-112;2016
+Sotto le Stelle - Vol. 3;Lucio Dalla;audio;audio;AUD-4668-113;1995
+La Città Perduta - Vol. 5;Elena Santoro;video;video;VID-3116-114;2001
+Il Destino dell'Universo - Vol. 1;Giuseppe Verdi;video;video;VID-3289-115;2017
+Impara la Matematica - Vol. 3;Dante Alighieri;cdrom;cdrom;CDR-2796-116;2002
+Quiz di Cultura Generale - Vol. 1;Elena Santoro;cdrom;cdrom;CDR-1452-117;2024
+Orizzonti Infiniti - Vol. 4;Roberto Benigni;audio;audio;AUD-3285-118;1990
+Botanica Interattiva - Vol. 1;Giuseppe Verdi;cdrom;cdrom;CDR-2227-119;2002
+L'Atlante delle Stelle - Vol. 5;Sofia Loren;cdrom;cdrom;CDR-8641-120;2021
+Frammenti di Luce - Vol. 3;Fabrizio De André;audio;audio;AUD-7629-121;2011
+Oltre il Tramonto - Vol. 2;Giuseppe Verdi;video;video;VID-9586-122;2014
+Un Nuovo Inizio - Vol. 1;Dante Alighieri;audio;audio;AUD-3359-123;2024
+Il Sole a Mezzanotte - Vol. 5;Fabrizio De André;audio;audio;AUD-3313-124;2004
+Quiz di Cultura Generale - Vol. 2;Dante Alighieri;cdrom;cdrom;CDR-3386-125;2016
+Archivio Storico Digitale - Vol. 4;Michelangelo Buonarroti;cdrom;cdrom;CDR-7972-126;1990
+Guida Storica d'Europa - Vol. 1;Francesca Neri;cdrom;cdrom;CDR-8114-127;1996
+Il Mio Primo Ricettario Digitale - Vol. 1;Laura Pausini;cdrom;cdrom;CDR-8835-128;1998
+Echi del Passato - Vol. 2;Alessandro Manzoni;audio;audio;AUD-6813-129;2009
+I Grandi Musei del Mondo - Vol. 4;Alberto Angela;cdrom;cdrom;CDR-5877-130;2007
+Battito Urbano - Vol. 1;Dante Alighieri;audio;audio;AUD-8762-131;2022
+Guida Storica d'Europa - Vol. 3;Elena Santoro;cdrom;cdrom;CDR-7315-132;2009
+L'Enigma di Leonardo - Vol. 5;Mario Rossi;video;video;VID-8588-133;2009
+Imparare a Dipingere - Vol. 3;Italo Calvino;cdrom;cdrom;CDR-3999-134;2008
+Software di Astronomia - Vol. 1;Lucio Dalla;cdrom;cdrom;CDR-5122-135;1998
+Impero Romano: Ascesa e Caduta - Vol. 2;Federico Fellini;video;video;VID-1357-136;1992
+Sguardi sulla Natura - Vol. 3;Elena Santoro;video;video;VID-6921-137;2003
+I Grandi Musei del Mondo - Vol. 4;Piero Angela;cdrom;cdrom;CDR-4613-138;2017
+Meraviglie d'Italia - Vol. 1;Dante Alighieri;video;video;VID-6813-139;2007
+La Divina Commedia - Vol. 1;Giovanni Pascoli;audio;audio;AUD-8282-140;2015
+L'Ultimo Segreto - Vol. 2;Eros Ramazzotti;video;video;VID-9642-141;2025
+La Divina Commedia - Vol. 3;Alessandro Manzoni;audio;audio;AUD-3308-142;2013
+Riflessi d'Argento - Vol. 4;Leonardo da Vinci;audio;audio;AUD-8345-143;2026
+Armonie Nascoste - Vol. 1;Ennio Morricone;audio;audio;AUD-2636-144;2020
+Corso di Chitarra per Principianti - Vol. 1;Francesca Neri;cdrom;cdrom;CDR-9964-145;2008
+Botanica Interattiva - Vol. 2;Elena Santoro;cdrom;cdrom;CDR-5098-146;2006
+Avventura tra i Ghiacci - Vol. 5;Giuseppe Verdi;video;video;VID-1079-147;2026
+Canzoni della Terra - Vol. 5;Sofia Loren;audio;audio;AUD-8279-148;2019
+Corso di Chitarra per Principianti - Vol. 2;Giacomo Leopardi;cdrom;cdrom;CDR-8007-149;2002
+Guida Storica d'Europa - Vol. 2;Fabrizio De André;cdrom;cdrom;CDR-9445-150;1997
+Il Mondo degli Animali CD - Vol. 3;Fabrizio De André;cdrom;cdrom;CDR-3694-151;1992
+Avventura tra i Ghiacci - Vol. 2;Antonio Vivaldi;video;video;VID-1469-152;2009
+Frammenti di Luce - Vol. 2;Giacomo Leopardi;audio;audio;AUD-8187-153;2008
+Introduzione all'Informatica - Vol. 5;Vittorio De Sica;cdrom;cdrom;CDR-8411-154;2026
+Imparare a Dipingere - Vol. 3;Sofia Loren;cdrom;cdrom;CDR-8592-155;2006
+La Scienza per i Ragazzi - Vol. 1;Antonio Vivaldi;cdrom;cdrom;CDR-5245-156;2016
+Il Tempo che Passa - Vol. 3;Roberto Benigni;video;video;VID-8542-157;2013
+La Città Perduta - Vol. 3;Mario Rossi;video;video;VID-5180-158;2015
+Echi del Passato - Vol. 2;Vittorio De Sica;audio;audio;AUD-1594-159;2024
+Il Destino dell'Universo - Vol. 4;Vittorio De Sica;video;video;VID-8171-160;1990
+Frammenti di Luce - Vol. 4;Eros Ramazzotti;audio;audio;AUD-5907-161;1998
+Volando Alto - Vol. 2;Fabrizio De André;video;video;VID-7824-162;1996
+Il Canto della Luna - Vol. 2;Fabrizio De André;audio;audio;AUD-3838-163;2004
+L'Atlante delle Stelle - Vol. 1;Elena Santoro;cdrom;cdrom;CDR-6688-164;1990
+Volando Alto - Vol. 3;Giacomo Leopardi;video;video;VID-4659-165;2016
+Sogni di Cristallo - Vol. 3;Giacomo Leopardi;audio;audio;AUD-3711-166;2009
+Le Grandi Opere d'Arte - Vol. 1;Leonardo da Vinci;video;video;VID-3910-167;2012
+Echi del Passato - Vol. 5;Luigi Bianchi;audio;audio;AUD-8835-168;2005
+Il Mondo degli Animali CD - Vol. 1;Leonardo da Vinci;cdrom;cdrom;CDR-9651-169;2014
+Software di Astronomia - Vol. 3;Alessandro Manzoni;cdrom;cdrom;CDR-8832-170;2014
+Sogni di Cristallo - Vol. 1;Elena Santoro;audio;audio;AUD-5676-171;2012
+Cronache Future - Vol. 1;Eros Ramazzotti;video;video;VID-9765-172;1995
+Note d'Autunno - Vol. 2;Vittorio De Sica;audio;audio;AUD-2676-173;2025
+Orizzonti Infiniti - Vol. 3;Giacomo Leopardi;audio;audio;AUD-7136-174;2018
+I Guardiani della Foresta - Vol. 4;Eros Ramazzotti;video;video;VID-1615-175;2023
+Le Grandi Opere d'Arte - Vol. 1;Mario Rossi;video;video;VID-9791-176;2019
+I Guardiani della Foresta - Vol. 1;Antonio Vivaldi;video;video;VID-2315-177;2003
+I Guardiani della Foresta - Vol. 4;Elena Santoro;video;video;VID-5736-178;2002
+Cronache Future - Vol. 3;Luigi Bianchi;video;video;VID-3928-179;2025
+Il Canto della Luna - Vol. 2;Laura Pausini;audio;audio;AUD-4708-180;1995
+Vento del Sud - Vol. 5;Sofia Loren;audio;audio;AUD-9549-181;1990
+Avventura tra i Ghiacci - Vol. 5;Giuseppe Verdi;video;video;VID-8178-182;1998
+Il Destino dell'Universo - Vol. 1;Eros Ramazzotti;video;video;VID-6453-183;2010
+I Guardiani della Foresta - Vol. 3;Giuseppe Verdi;video;video;VID-8826-184;2018
+Il Canto della Luna - Vol. 1;Luigi Bianchi;audio;audio;AUD-8588-185;2000
+Orizzonti Infiniti - Vol. 1;Alberto Angela;audio;audio;AUD-6969-186;2003
+Musica Maestosa - Vol. 5;Eros Ramazzotti;audio;audio;AUD-4567-187;2007
+Storie di Eroi - Vol. 3;Antonio Vivaldi;video;video;VID-2779-188;2014
+Impara la Matematica - Vol. 5;Roberto Benigni;cdrom;cdrom;CDR-4558-189;2017
+Echi del Passato - Vol. 5;Antonio Vivaldi;audio;audio;AUD-5033-190;2002
+L'Atlante delle Stelle - Vol. 3;Federico Fellini;cdrom;cdrom;CDR-5848-191;1994
+Cronache Future - Vol. 4;Alessandro Manzoni;video;video;VID-2397-192;2013
+Corso di Chitarra per Principianti - Vol. 3;Dante Alighieri;cdrom;cdrom;CDR-8461-193;1990
+Melodie del Cuore - Vol. 3;Mario Rossi;audio;audio;AUD-3844-194;2003
+Sogni di Cristallo - Vol. 2;Dante Alighieri;audio;audio;AUD-7420-195;2013
+La Scienza per i Ragazzi - Vol. 2;Fabrizio De André;cdrom;cdrom;CDR-5135-196;2010
+Il Mondo degli Animali CD - Vol. 1;Federico Fellini;cdrom;cdrom;CDR-5301-197;2008
+La Città Perduta - Vol. 5;Giuseppe Verdi;video;video;VID-5269-198;2019
+Il Canto della Luna - Vol. 1;Dante Alighieri;audio;audio;AUD-2425-199;2024
+Vento del Sud - Vol. 2;Giovanni Pascoli;audio;audio;AUD-6903-200;2018

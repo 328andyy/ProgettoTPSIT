@@ -1,0 +1,77 @@
+/* Sfondo di tutta la pagina e font */
+body {
+    font-family: sans-serif;
+    background-color: #f0f2f5; /* Grigio chiaro */
+    color: #333333; /* Testo grigio scuro */
+    margin: 0;
+    padding: 20px;
+}
+
+/* La scheda bianca centrale */
+.login-container {
+    background-color: #ffffff; /* Bianco */
+    max-width: 350px;
+    margin: 50px auto; /* Centra la scheda nella pagina */
+    padding: 20px;
+    border: 1px solid #cccccc; /* Bordino grigio */
+    border-radius: 5px;
+}
+
+/* Titolo della registrazione */
+h2 {
+    color: #1a365d; /* Blu scuro */
+    text-align: center;
+    margin-top: 0;
+}
+
+/* Spaziatura tra i campi del modulo */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Scritte sopra i campi */
+label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+/* Caselle di testo dove scrivere */
+input {
+    padding: 8px;
+    margin-bottom: 15px; /* Spazio sotto la casella */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Bottone di registrazione */
+button {
+    background-color: #1a365d; /* Blu scuro */
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+/* Colore del bottone quando ci passi sopra con il mouse */
+button:hover {
+    background-color: #2b4c7e;
+}
+
+/* Scatola per i messaggi PHP */
+.messaggio {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #e3f2fd; /* Azzurro chiaro */
+    border: 1px solid #bbdefb;
+    border-radius: 4px;
+    text-align: center;
+}
+
+/* Collegamento per accedere */
+.messaggio a {
+    color: #1a365d;
+    font-weight: bold;
+}
