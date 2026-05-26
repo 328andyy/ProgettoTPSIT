@@ -1,0 +1,40 @@
+Il Signore degli Anelli;John Ronald Reuel Tolkien;Libro;Fantasy;9788845292613;1954
+Harry Potter e la Pietra Filosofale;Joanne Kathleen Rowling;Libro;Fantasy;9788869183157;1997
+Le Cronache di Narnia;Clive Staples Lewis;Libro;Fantasy;9788804473442;1950
+Eragon;Christopher Paolini;Libro;Fantasy;9788817018340;2002
+Lo Hobbit;John Ronald Reuel Tolkien;Libro;Fantasy;9788845292774;1937
+Percy Jackson e gli Dei dell'Olimpo;Richard Russell Riordan;Libro;Fantasy;9788804668237;2005
+Shadowhunters;Cassandra Clare;Libro;Fantasy;9788804701019;2007
+La Bussola d'Oro;Philip Pullman;Libro;Fantasy;9788884513441;1995
+Mistborn;Brandon Winn Sanderson;Libro;Fantasy;9788868361365;2006
+The Witcher - Il Guardiano degli Innocenti;Andrzej Sapkowski;Libro;Fantasy;9788842931041;1993
+Dieci Piccoli Indiani;Agatha Mary Clarissa Christie;Libro;Giallo;9788804665298;1939
+Assassinio sull'Orient Express;Agatha Mary Clarissa Christie;Libro;Giallo;9788804665304;1934
+Sherlock Holmes - Uno Studio in Rosso;Sir Arthur Ignatius Conan Doyle;Libro;Giallo;9788807901010;1887
+Il Mastino dei Baskerville;Sir Arthur Ignatius Conan Doyle;Libro;Giallo;9788807901027;1902
+La Ragazza del Treno;Paula Hawkins;Libro;Giallo;9788850236602;2015
+Il Nome della Rosa;Umberto Eco;Libro;Giallo;9788845297793;1980
+Il Silenzio degli Innocenti;Thomas Harris;Libro;Giallo;9788804712343;1988
+La Verità sul Caso Harry Quebert;Joël Dicker;Libro;Giallo;9788842922056;2012
+La Donna in Bianco;Wilkie Collins;Libro;Giallo;9788807902147;1860
+La Finestra sul Cortile;Cornell George Hopley Woolrich;Libro;Giallo;9788807888229;1942
+Dracula;Abraham "Bram" Stoker;Libro;Horror;9788807900877;1897
+Frankenstein;Mary Wollstonecraft Shelley;Libro;Horror;9788807900495;1818
+It;Stephen Edwin King;Libro;Horror;9788868368982;1986
+Shining;Stephen Edwin King;Libro;Horror;9788868368999;1977
+Pet Sematary;Stephen Edwin King;Libro;Horror;9788868369002;1983
+L'Esorcista;William Peter Blatty;Libro;Horror;9788807888335;1971
+Bird Box;Josh Malerman;Libro;Horror;9788868369019;2014
+Coraline;Neil Richard Gaiman;Libro;Horror;9788804667018;2002
+La Casa degli Spiriti;Isabel Angélica Allende Llona;Libro;Horror;9788807888441;1982
+Carrie;Stephen Edwin King;Libro;Horror;9788868369026;1974
+Il Codice Da Vinci;Dan Brown (Daniel Gerhard Brown);Libro;Mistery;9788804667247;2003
+Angeli e Demoni;Dan Brown (Daniel Gerhard Brown);Libro;Mistery;9788804667254;2000
+Il Simbolo Perduto;Dan Brown (Daniel Gerhard Brown);Libro;Mistery;9788804667261;2009
+Uomini che Odiano le Donne;Karl Stig-Erland Larsson;Libro;Mistery;9788831796200;2005
+La Ragazza che Giocava con il Fuoco;Karl Stig-Erland Larsson;Libro;Mistery;9788831796217;2006
+Il Richiamo del Cuculo;Joanne Kathleen Rowling (Robert Galbraith);Libro;Mistery;9788850240005;2013
+La Scomparsa di Stephanie Mailer;Joël Dicker;Libro;Mistery;9788830439870;2018
+Rebecca, la Prima Moglie;Daphne du Maurier;Libro;Mistery;9788807888557;1938
+La Biblioteca dei Morti;Glenn Cooper;Libro;Mistery;9788842915614;2009
+L'Uomo di Gesso;Caroline J. Tudor;Libro;Mistery;9788811609506;2018
