@@ -39,8 +39,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             // Messaggio se l'utente e gia presente
             $messaggio = 'Utente già presente, vuoi <a href="Accedi.html">accedere</a>?';
         } else {
+
+            $smartcard = "";
+            for($i=0; $i<12; $i++){
+                $smartcard = $smartcard.rand(0,9);
+            }
+
             // Riga da salvare (formato username:password)
-            $nuova_riga = $username . ":" . $password . PHP_EOL;
+            $nuova_riga = $username . ":" . $password . ":".$smartcard .PHP_EOL;
 
             // Scrittura riga nel file ,FILE_APPEND evita di sovrascrivere il file esistente
             file_put_contents($file_utenti, $nuova_riga, FILE_APPEND);
