@@ -1,0 +1,176 @@
+:root {
+    /* Tavolozza Audio */
+    --primary-color: #121214;    /* Sfondo Cuffie / Vinile */
+    --secondary-color: #2ecc71;  /* LED Equalizzatore (Verde) */
+    --secondary-hover: #e67e22;  /* Picco di Volume (Arancione) */
+    --bg-light: #3498db;         /* Frequenza Sonora (Azzurro) */
+    --text-color: #000000;       /* Nero */
+    --white: #ffffff;            /* Bianco */
+    
+    /* Font */
+    --font-heading: 'Merriweather', serif;
+    --font-body: 'Open Sans', sans-serif;
+}
+
+/* Body */
+body {
+    background-color: var(--bg-light); /* Colore pergamena di base sotto l'immagine */
+    margin: 0;
+    font-family: var(--font-body);
+    color: var(--text-color);
+}
+
+/* Sfondo Pagina */
+.sfondo-audio {
+    position: fixed;       /* Resta bloccata sullo schermo durante lo scroll */
+    top: 0;
+    left: 0;
+    width: 100vw;          /* Copre tutta la larghezza */
+    height: 100vh;         /* Copre tutta l'altezza */
+    object-fit: cover;     /* Si adatta intelligentemente senza distorcersi */
+    z-index: -1;           /* Si posiziona dietro a qualsiasi testo, bottone o header */
+    opacity: 0.23;         /* Sbiadita al 23% per non intralciare la lettura */
+    pointer-events: none;  /* Evita che l'utente possa selezionarla o trascinarla per sbaglio */
+}
+
+/* Elementi Header */
+
+/* Nasconde la checkbox di controllo */
+.cat-checkbox {
+    display: none;
+}
+
+/* Stile del pulsante "☰ Generi" a sinistra del titolo */
+.cat-btn {
+    display: inline-block;
+    background-color: var(--secondary-color); /* Oro antico */
+    color: var(--primary-color); /* Testo viola scuro per contrasto su oro */
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 0.9rem;
+    cursor: pointer;
+    margin-right: 15px; /* Spazio tra il bottone e il titolo H1 */
+    transition: background 0.3s, color 0.3s;
+    user-select: none;
+}
+
+.cat-btn:hover {
+    background-color: var(--secondary-hover); /* Oro versione scura al passaggio del mouse */
+    color: var(--white);
+}
+
+/* Side-Bar */
+.cat-sidebar {
+    position: fixed;
+    top: 0;
+    left: -320px; /* Nascosto fuori dalla finestra a sinistra*/
+    width: 300px;
+    height: 100vh;
+    background-color: var(--bg-light); /* Sfondo pergamena compatto */
+    box-shadow: 5px 0 15px rgba(59, 30, 84, 0.25); /* Ombra con una punta di viola */
+    z-index: 9999; /* Sopra a qualsiasi altro elemento */
+    transition: left 0.4s ease; /* Effetto transizione fluido */
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+/* Intestazione interna del menu laterale */
+.cat-sidebar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid var(--secondary-color); /* Linea divisoria oro */
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+
+.cat-sidebar-header h3 {
+    font-family: var(--font-heading);
+    color: var(--primary-color); /* Viola Profondo */
+    font-size: 1.3rem;
+    margin: 0;
+}
+
+/* Pulsante "X" per chiudere */
+.cat-close {
+    font-size: 2rem;
+    color: var(--text-color);
+    cursor: pointer;
+    line-height: 1;
+}
+
+.cat-close:hover {
+    color: var(--secondary-color); /* Diventa oro al passaggio */
+}
+
+/* Lista delle categorie (Lista Libri, Giallo, Mystery, Horror) */
+.cat-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 0;
+    margin: 0;
+}
+
+.cat-list li a {
+    display: block;
+    padding: 12px 15px;
+    color: var(--text-color);
+    text-decoration: none;
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 1.1rem;
+    border-radius: 6px;
+    transition: background 0.2s, color 0.2s;
+}
+
+.cat-list li a:hover {
+    background-color: var(--primary-color); /* Sfondo viola quando si passa sopra */
+    color: var(--secondary-color); /* Testo oro quando si passa sopra */
+}
+
+/* Sfondo oscurato quando la sidebar è attiva */
+.cat-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(27, 12, 43, 0.6); /* Overlay scuro con tonalità magica/violacea */
+    z-index: 9998;
+    display: none;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+}
+
+/* Menu
+
+/* Fa scivolare dentro la sidebar da sinistra */
+.cat-checkbox:checked ~ .cat-sidebar {
+    left: 0;
+}
+
+/* Mostra lo sfondo scuro protettivo */
+.cat-checkbox:checked ~ .cat-overlay {
+    display: block;
+    opacity: 1;
+}
+
+/*Header
+
+/* Allineamento per tenere pulsante e logo vicini a sinistra */
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+}
+
+/* Crea un piccolo allineamento flessibile per il blocco iniziale */
+.categorie-dropdown {
+    display: flex;
+    align-items: center;
+}
