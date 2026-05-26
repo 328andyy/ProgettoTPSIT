@@ -1,99 +1,95 @@
+/* Variabili colore con tema Mystery/Giallo e font */
 :root {
-    /* Tavolozza Mystery */
-    --primary-color: #1a222d;    /* Grigio scuro / Blu notte  */
+    --primary-color: #1a222d;    /* Grigio scuro / Blu notte */
     --secondary-color: #8b1e2f;  /* Rosso cremisi cupo */
-    --secondary-hover: #5c111c;  /* Rosso ancora più scuro per l'effetto hover */
-    --bg-light: #eef1f6;         /* Grigio nebbia chiarissimo per lo sfondo */
-    --text-color: #11161d;       /* Quasi nero per i testi */
-    --white: #ffffff;            /* Bianco */
-    
-    /* Font */
+    --secondary-hover: #5c111c;  /* Rosso ancora più scuro per l'hover */
+    --bg-light: #eef1f6;         /* Grigio nebbia chiarissimo */
+    --text-color: #11161d;       /* Quasi nero */
+    --white: #ffffff;
     --font-heading: 'Merriweather', serif;
     --font-body: 'Open Sans', sans-serif;
 }
 
-/* Body */
+/* Base della pagina */
 body {
-    background-color: var(--bg-light); /* Colore nebbia */
+    background-color: var(--bg-light);
     margin: 0;
     font-family: var(--font-body);
     color: var(--text-color);
 }
 
-/* Sfondo Pagina */
-.sfondo-fantasy { 
-    position: fixed;       
+/* Immagine di sfondo fissa ad effetto fumoso */
+.sfondo-fantasy {
+    position: fixed;
     top: 0;
     left: 0;
-    width: 100vw;          
-    height: 100vh;         
-    object-fit: cover;     
-    z-index: -1;           
-    opacity: 0.23;         /* Abbassato al 23% per dare un effetto ancora più fumoso */
-    pointer-events: none;  
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    z-index: -1;
+    opacity: 0.23;
+    pointer-events: none;
 }
 
-/* Elementi Header */
-
-/* Nasconde la checkbox di controllo */
+/* Nasconde la checkbox di controllo del menu */
 .cat-checkbox {
     display: none;
 }
 
-/* Stile del pulsante "☰ Generi" a sinistra del titolo */
+/* Pulsante per aprire la sidebar dei generi */
 .cat-btn {
     display: inline-block;
-    background-color: var(--secondary-color); /* Rosso cremisi */
-    color: var(--white); /* Testo bianco per contrasto sul rosso */
+    background-color: var(--secondary-color);
+    color: var(--white);
     padding: 8px 16px;
     border-radius: 20px;
-    font-family: var(--font-body);
     font-weight: 600;
     font-size: 0.9rem;
     cursor: pointer;
-    margin-right: 15px; 
+    margin-right: 15px;
     transition: background 0.3s, color 0.3s;
     user-select: none;
 }
 
+/* Cambio colore del pulsante generi all'hover */
 .cat-btn:hover {
-    background-color: var(--secondary-hover); /* Rosso scuro al passaggio del mouse */
+    background-color: var(--secondary-hover);
     color: var(--white);
 }
 
-/* Side-Bar */
+/* Sidebar dei generi nascosta a sinistra */
 .cat-sidebar {
     position: fixed;
     top: 0;
-    left: -320px; 
+    left: -320px;
     width: 300px;
     height: 100vh;
-    background-color: #f4f6f9; /* Grigio leggermente scuro */
-    box-shadow: 5px 0 15px rgba(26, 34, 45, 0.3); /* Ombra scura */
-    z-index: 9999; 
-    transition: left 0.4s ease; 
+    background-color: #f4f6f9;
+    box-shadow: 5px 0 15px rgba(26, 34, 45, 0.3);
+    z-index: 9999;
+    transition: left 0.4s ease;
     padding: 30px 20px;
     box-sizing: border-box;
 }
 
-/* Intestazione interna del menu laterale */
+/* Intestazione interna della sidebar */
 .cat-sidebar-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 2px solid var(--secondary-color); /* Linea divisoria rossa */
+    border-bottom: 2px solid var(--secondary-color);
     padding-bottom: 15px;
     margin-bottom: 20px;
 }
 
 .cat-sidebar-header h3 {
     font-family: var(--font-heading);
-    color: var(--primary-color); /* Grigio scuro */
+    color: var(--primary-color);
     font-size: 1.3rem;
     margin: 0;
 }
 
-/* Pulsante "X" per chiudere */
+/* Pulsante X per chiudere la sidebar */
 .cat-close {
     font-size: 2rem;
     color: var(--text-color);
@@ -102,10 +98,10 @@ body {
 }
 
 .cat-close:hover {
-    color: var(--secondary-color); /* Diventa rosso al passaggio */
+    color: var(--secondary-color);
 }
 
-/* Lista delle categorie */
+/* Lista dei link generi nella sidebar */
 .cat-list {
     list-style: none;
     display: flex;
@@ -115,53 +111,50 @@ body {
     margin: 0;
 }
 
+/* Singoli link della lista generi */
 .cat-list li a {
     display: block;
     padding: 12px 15px;
     color: var(--text-color);
     text-decoration: none;
-    font-family: var(--font-body);
     font-weight: 600;
     font-size: 1.1rem;
     border-radius: 6px;
     transition: background 0.2s, color 0.2s;
 }
 
+/* Effetto hover sui link della lista generi */
 .cat-list li a:hover {
-    background-color: var(--primary-color); /* Sfondo grigio scuro all'hover */
-    color: var(--white);                    /* Testo bianco all'hover per staccare */
+    background-color: var(--primary-color);
+    color: var(--white);
 }
 
-/* Sfondo oscurato quando la sidebar è attiva */
+/* Sfondo scuro oscurato ad effetto nebbia quando la sidebar è aperta */
 .cat-overlay {
     position: fixed;
     top: 0;
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-color: rgba(17, 22, 29, 0.7); /* feeling nebbia notturna */
+    background-color: rgba(17, 22, 29, 0.7);
     z-index: 9998;
     display: none;
     opacity: 0;
     transition: opacity 0.4s ease;
 }
 
-/* Menu */
-
-/* Fa scivolare dentro la sidebar da sinistra */
+/* Fa scivolare la sidebar sullo schermo quando attiva */
 .cat-checkbox:checked ~ .cat-sidebar {
     left: 0;
 }
 
-/* Mostra lo sfondo scuro protettivo */
+/* Mostra lo sfondo oscurato quando la sidebar è attiva */
 .cat-checkbox:checked ~ .cat-overlay {
     display: block;
     opacity: 1;
 }
 
-/* Header */
-
-/* Allineamento corretto per tenere pulsante e logo vicini a sinistra */
+/* Contenitore principale dell'header */
 .header-container {
     display: flex;
     justify-content: space-between;
@@ -169,7 +162,7 @@ body {
     padding: 15px 20px;
 }
 
-/* Crea un piccolo allineamento flessibile per il blocco iniziale */
+/* Allineamento flessibile per il blocco del pulsante generi */
 .categorie-dropdown {
     display: flex;
     align-items: center;
