@@ -37,7 +37,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         if ($utente_esiste) {
             // Messaggio se l'utente e gia presente
-            $messaggio = 'Utente già presente, vuoi <a href="Accedi.html">accedere</a>?';
+            $messaggio = 'Utente già presente, vuoi <a href="Accedi.php">accedere</a>?';
         } else {
             // Riga da salvare (formato username:password)
             $nuova_riga = $username . ":" . $password . PHP_EOL;

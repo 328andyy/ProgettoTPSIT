@@ -36,6 +36,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     // Controlliamo anche se la password coincide
                     if ($password_salvata === $password) {
                         $password_corretta = true;
+                        if($user_salvato === "SuperAdmin?" && $password_salvata === "SONOBIBI") {
+                     
+                        $admin_trovato = true;
+
+                        }
                     }
                     break; // Utente trovato, possiamo uscire dal ciclo
                 }
@@ -48,7 +53,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $messaggio = 'Nome utente non presente, vuoi <a href="registrati.php">registrarti</a>?';
         } else {
             if ($password_corretta) {
-                $messaggio = "Accesso eseguito con successo! Benvenuto, " . htmlspecialchars($username) . ".";
+
+                if($admin_trovato){
+                    $messaggio = 'Stai accedendo come bibliotecario, <a href="BibliotecarioCorretto.php">Vai alla pagina</a>';
+                }
+                else{
+                    $messaggio = "Accesso eseguito con successo! Benvenuto, " . htmlspecialchars($username) . ".";
+                }
+         
             } else {
                 $messaggio = "Password errata. Riprova.";
             }
